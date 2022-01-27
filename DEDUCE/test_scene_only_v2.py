@@ -14,6 +14,8 @@ from torch.nn import functional as F
 import os
 from PIL import Image
 from config_v2 import places_dir,sun_dir,vpc_dir,home_data_dir
+from openpyxl import Workbook
+
 
 parser = argparse.ArgumentParser(description='DEDUCE Scene_Only Evaluation')
 parser.add_argument('--dataset',default='places',help='dataset to test')
@@ -72,10 +74,12 @@ if(args.dataset == 'data'):
 
 accuracies_list = []
 predicted_count = torch.zeros(5,3)
+
+xlsx_path = "/home/agent/ScenceRecog/DEDUCE/111111.xlsx"
+wb = Workbook()
+ws = wb.active
+
 for class_name in os.listdir(valdir):
-    txt_path = os.getcwd() + "." + class_name
-    txt_path = "/home/agent/桌面/DEDUCE/1111111.txt"
-    file_txt = open(txt_path, "w")
     correct, count = 0, 0
 
     if class_name == 'bed_room':
@@ -101,12 +105,10 @@ for class_name in os.listdir(valdir):
         print(h_x)
         probs, idx = h_x.sort(0, True)
         
-        # print(f1_name)
-        # print(type(f1_name))
-        # print(classes)
-        # print(idx)
-        input_txtname = class_name + "/" + img_name + " " + str(int(idx[0])) + "\n"
-        file_txt.write(input_txtname)        
+        # 这里改为本地路径
+        pic_path = "=HYPERLINK(" + "\"" + "/home/agent/ScenceRecog/DEDUCE/data/val/" + class_name + "/" + img_name + "\"" + ")"
+        ws.append([pic_path, int(idx[0])])  
+        
         if classes[idx[0]] == class_name:
             correct+=1
             predicted_count[idx[0], 0] += 1
@@ -126,7 +128,9 @@ for class_name in os.listdir(valdir):
     accuracy = 100*correct/float(count)
     print('Accuracy of {} class is {:2.2f}%'.format(class_name,accuracy))
     accuracies_list.append(accuracy)
-    file_txt.close()
+
+wb.save(xlsx_path)
+
 print('Average test accuracy is = {:2.2f}%'.format(sum(accuracies_list)/len(accuracies_list)))   # This is not weighted between number of samples
 
 print(predicted_count)
