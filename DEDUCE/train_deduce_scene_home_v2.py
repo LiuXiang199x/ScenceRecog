@@ -23,8 +23,6 @@ import matplotlib.pyplot as plt
 import resnet
 from config_v2 import places_dir
 
-os.environ['CUDA_VISIBLE_DEVICES']= "0, 1, 2, 3"
-
 model_names = sorted(name for name in models.__dict__
     if name.islower() and not name.startswith("__")
     and callable(models.__dict__[name]))
@@ -289,7 +287,7 @@ def accuracy(output, target, topk=(1,)):
 
     res = []
     for k in topk:
-        correct_k = correct[:k].contiguous().view(-1).float().sum(0)
+        correct_k = correct[:k].view(-1).float().sum(0)
         res.append(correct_k.mul_(100.0 / batch_size))
     return res
 
