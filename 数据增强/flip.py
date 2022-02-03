@@ -5,20 +5,14 @@ origin_img_path = "./DEDUCE/data/val/bed_room/RGB100W_542500000083_1164450853817
 
 
 img = cv.imread(origin_img_path)
-cv.imshow("123", img)
-out = cv.waitKey(0)
-
 h_img = cv.flip(img, 1)
-# cv.imshow("123", h_img)
-# out = cv.waitKey(0)
-
-print(img.shape)   # （360，640，3）
-dst = cv.resize(img, (200,800))
-
-# cv.imshow("123", dst)
-# out = cv.waitKey(0)
-
 img_transpose = cv.transpose(img)
-cv.imshow("123", img_transpose)
+
+cv.imwrite("./数据增强/pics/flips_rotation_transpose/flips.jpg", h_img)
+cv.imwrite("./数据增强/pics/flips_rotation_transpose/transpose.jpg", img_transpose)
+
+cv.imshow("123", img)
+cv.imshow("flips", h_img)
+cv.imshow("transpose", img_transpose)
 print(img_transpose.shape)   # （360，640，3）
 out = cv.waitKey(0)
