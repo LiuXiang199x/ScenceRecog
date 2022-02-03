@@ -20,22 +20,26 @@ def normal_rotation():
     (h, w) = image.shape[:2]
     (cX, cY) = (w // 2, h // 2)
 
-    M = cv.getRotationMatrix2D((cX, cY), 45, 1.0)
+    M = cv.getRotationMatrix2D((cX, cY), 45, 2.0)
+
     rotated = cv.warpAffine(image, M, (w, h))
     cv.imshow("Rotated by 45 Degrees", rotated)
+    cv.imwrite("./数据增强/pics/flips_rotation_transpose/normal_rotation.jpg", rotated)
 
     cv.waitKey(0)
     cv.destroyAllWindows()
-
 
 def imutils_rotation():
     image = cv.imread(origin_img_path)
     cv.imshow("Original", image)
 
     rotated = imutils.rotate_bound(image, 5)
+    cv.imwrite("./数据增强/pics/flips_rotation_transpose/imutils_rotation.jpg", rotated)
+
     cv.imshow("Rotated by XX Degrees", rotated)
 
     cv.waitKey(0)
     cv.destroyAllWindows()
 
 imutils_rotation()
+normal_rotation()
