@@ -5,7 +5,8 @@ import argparse
 import numpy as np
 import random
 
-origin_img_path = "./DEDUCE/data/val/bed_room/RGB100W_542500000083_116445085381751238.jpg"
+origin_img_path = "./数据增强/pics/original/RGB100W_542500000083_116445085381751238.jpg"
+
 
 def sp_noise(image, prob):
     '''
@@ -25,7 +26,7 @@ def sp_noise(image, prob):
                 output[i][j] = image[i][j]
     return output
  
-def gasuss_noise(image, mean=0, var=0.001):
+def gasuss_noise(image, mean=0, var=0.005):
     ''' 
     添加高斯噪声
     mean : 均值 
@@ -44,9 +45,12 @@ def gasuss_noise(image, mean=0, var=0.001):
     return out
 
 img = cv.imread(origin_img_path)
-# a = sp_noise(img, 0.02)
-a = gasuss_noise(img)
+spicedSalt_img = sp_noise(img, 0.02)
 
-cv.imshow("111111:", a)
+gauss_img = gasuss_noise(img)
+cv.imwrite("./数据增强/pics/noise/gauss_mean0_var0.005.jpg", gauss_img)
+cv.imwrite("./数据增强/pics/noise/spicedSalt_prob0.02.jpg", spicedSalt_img)
+
+cv.imshow("111111:", spicedSalt_img)
 cv.waitKey(0)
-print(a.shape)
+print(spicedSalt_img.shape)
