@@ -11,7 +11,7 @@ origin_img_path = "./DEDUCE/data/val/bed_room/RGB100W_542500000083_1164450853817
 # - 1.0：旋转后图像的大小，1.0原图，2.0变成原来的2倍，0.5变成原来的0.5倍
 # OpenCV不会自动为整个旋转图像分配空间，以适应帧。旋转完可能有部分丢失。
 # 如果希望在旋转后使整个图像适合视图，则要进行优化，用imutils.rotate_bound.
-#
+# #
 
 def normal_rotation():
     image = cv.imread(origin_img_path)
