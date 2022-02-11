@@ -1,4 +1,4 @@
-# Usage: python train_deduce_scene_home.py -a resnet18 -b=10 -j=4 -p=1000
+# Usage: python train_deduce_scene_home.py -a resnet18 -b=10 -j=4 -p=1000 --num_classes=5
 
 # Anwesan Pal
 
