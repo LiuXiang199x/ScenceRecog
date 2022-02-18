@@ -142,14 +142,22 @@ def devide35to7():
     for _ in range(len(datas)):
         if i+6 >= len(datas):
             break
-        f0.writelines(datas[i+0].split("/")[-1].replace("\t",""))
-        f1.writelines(datas[i+1].split("/")[-1].replace("\t",""))
-        f2.writelines(datas[i+2].split("/")[-1].replace("\t",""))
-        f3.writelines(datas[i+3].split("/")[-1].replace("\t",""))
-        f4.writelines(datas[i+4].split("/")[-1].replace("\t",""))
-        f5.writelines(datas[i+5].split("/")[-1].replace("\t",""))
-        f6.writelines(datas[i+6].split("/")[-1].replace("\t",""))
+        # f0.writelines(datas[i+0].split("/")[-1].replace("\t",""))
+        # f1.writelines(datas[i+1].split("/")[-1].replace("\t",""))
+        # f2.writelines(datas[i+2].split("/")[-1].replace("\t",""))
+        # f3.writelines(datas[i+3].split("/")[-1].replace("\t",""))
+        # f4.writelines(datas[i+4].split("/")[-1].replace("\t",""))
+        # f5.writelines(datas[i+5].split("/")[-1].replace("\t",""))
+        # f6.writelines(datas[i+6].split("/")[-1].replace("\t",""))
+        
+        f0.writelines(datas[i+0].replace("\t",""))
+        f1.writelines(datas[i+1].replace("\t",""))
+        f2.writelines(datas[i+2].replace("\t",""))
+        f3.writelines(datas[i+3].replace("\t",""))
+        f4.writelines(datas[i+4].replace("\t",""))
+        f5.writelines(datas[i+5].replace("\t",""))
+        f6.writelines(datas[i+6].replace("\t",""))
         
         i += 7
 
-get_140sn()
+devide35to7()

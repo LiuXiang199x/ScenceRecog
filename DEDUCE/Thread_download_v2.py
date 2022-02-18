@@ -27,7 +27,7 @@ if __name__ == '__main__':
     # txt = '/media/agent/eb0d0016-e15f-4a25-8c28-0ad31789f3cb/Scene/DEDUCE/download_bedroom.txt'
 
     path = '/home/agent/PICCCCCC/'
-    txt = '/home/agent/ScenceRecog/数据获取/datasets/35Wto7paq/35_1(start_1).txt'
+    txt = '/home/agent/txt_final_550W.txt'
     
     with open(txt, 'r') as f:
         for line in f.readlines():
