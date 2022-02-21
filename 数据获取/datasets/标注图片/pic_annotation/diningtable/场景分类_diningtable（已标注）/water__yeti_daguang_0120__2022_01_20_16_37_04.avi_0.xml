@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2022012009</folder>
+  <filename>water__yeti_daguang_0120__2022_01_20_16_37_04.avi_0.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2022012009/water__yeti_daguang_0120__2022_01_20_16_37_04.avi_0.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>liquid</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>-0.45</xmin>
+      <ymin>293.18</ymin>
+      <xmax>119.09</xmax>
+      <ymax>330.45</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>chair_foot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>31.82</xmin>
+      <ymin>169.55</ymin>
+      <xmax>54.55</xmax>
+      <ymax>210.91</ymax>
+    </bndbox>
+  </object>
+</annotation>

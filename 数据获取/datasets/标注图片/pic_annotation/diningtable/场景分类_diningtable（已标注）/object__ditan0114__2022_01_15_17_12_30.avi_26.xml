@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2022011910</folder>
+  <filename>object__ditan0114__2022_01_15_17_12_30.avi_26.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2022011910/object__ditan0114__2022_01_15_17_12_30.avi_26.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>chair_foot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>592.27</xmin>
+      <ymin>229.09</ymin>
+      <xmax>621.36</xmax>
+      <ymax>241.36</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>wire</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>111.36</xmin>
+      <ymin>150.91</ymin>
+      <xmax>155.00</xmax>
+      <ymax>215.00</ymax>
+    </bndbox>
+  </object>
+</annotation>

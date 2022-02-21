@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2021121001</folder>
+  <filename>RGB200W_29984CRL30V00054394_1637326456_2379.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2021121001/RGB200W_29984CRL30V00054394_1637326456_2379.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>dining_table</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>211.82</xmin>
+      <ymin>69.09</ymin>
+      <xmax>397.27</xmax>
+      <ymax>224.55</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>plastic_toy</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>158.64</xmin>
+      <ymin>164.55</ymin>
+      <xmax>254.09</xmax>
+      <ymax>223.64</ymax>
+    </bndbox>
+  </object>
+</annotation>

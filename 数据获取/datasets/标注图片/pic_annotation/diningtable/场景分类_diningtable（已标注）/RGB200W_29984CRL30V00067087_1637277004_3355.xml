@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2021121801</folder>
+  <filename>RGB200W_29984CRL30V00067087_1637277004_3355.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2021121801/RGB200W_29984CRL30V00067087_1637277004_3355.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>shoe</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>540.00</xmin>
+      <ymin>188.18</ymin>
+      <xmax>584.09</xmax>
+      <ymax>214.09</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dining_table</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>225.45</xmin>
+      <ymin>103.64</ymin>
+      <xmax>373.64</xmax>
+      <ymax>215.00</ymax>
+    </bndbox>
+  </object>
+</annotation>

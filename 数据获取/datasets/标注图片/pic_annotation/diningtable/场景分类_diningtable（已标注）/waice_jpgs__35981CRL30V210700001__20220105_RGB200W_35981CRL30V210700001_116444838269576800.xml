@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2022020709</folder>
+  <filename>waice_jpgs__35981CRL30V210700001__20220105_RGB200W_35981CRL30V210700001_116444838269576800.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2022020709/waice_jpgs__35981CRL30V210700001__20220105_RGB200W_35981CRL30V210700001_116444838269576800.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>chair_foot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>593.64</xmin>
+      <ymin>134.09</ymin>
+      <xmax>631.82</xmax>
+      <ymax>216.36</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>chair_foot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>572.73</xmin>
+      <ymin>153.64</ymin>
+      <xmax>594.55</xmax>
+      <ymax>212.27</ymax>
+    </bndbox>
+  </object>
+</annotation>

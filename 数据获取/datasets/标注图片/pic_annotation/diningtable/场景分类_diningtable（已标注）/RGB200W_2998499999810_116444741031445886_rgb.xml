@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB200W_2998499999810_116444741031445886_rgb.jpg</folder>
+  <filename>RGB200W_2998499999810_116444741031445886_rgb.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999967/RGB200W_2998499999810_116444741031445886_rgb.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>352</width>
+    <height>352</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>wire</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>11.82</xmin>
+      <ymin>203.64</ymin>
+      <xmax>40.91</xmax>
+      <ymax>217.73</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dining_table</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>163.64</xmin>
+      <ymin>86.82</ymin>
+      <xmax>351.82</xmax>
+      <ymax>201.82</ymax>
+    </bndbox>
+  </object>
+</annotation>

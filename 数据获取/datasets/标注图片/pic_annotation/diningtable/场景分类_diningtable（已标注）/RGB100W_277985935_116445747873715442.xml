@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB100W_277985935_116445747873715442.jpg</folder>
+  <filename>RGB100W_277985935_116445747873715442.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999965/RGB100W_277985935_116445747873715442.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>361</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>dining_table</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>150.91</xmin>
+      <ymin>0.45</ymin>
+      <xmax>375.91</xmax>
+      <ymax>157.27</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cupboard</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>484.09</xmin>
+      <ymin>77.73</ymin>
+      <xmax>529.55</xmax>
+      <ymax>152.27</ymax>
+    </bndbox>
+  </object>
+</annotation>

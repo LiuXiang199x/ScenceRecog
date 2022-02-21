@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB100W_542500001364_116453628083620353.jpg</folder>
+  <filename>RGB100W_542500001364_116453628083620353.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999990/RGB100W_542500001364_116453628083620353.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>360</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>metal_chair_foot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>280.91</xmin>
+      <ymin>153.64</ymin>
+      <xmax>315.00</xmax>
+      <ymax>166.82</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dining_table</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>275.91</xmin>
+      <ymin>0.91</ymin>
+      <xmax>640.00</xmax>
+      <ymax>171.82</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>PURCHASE_CRL9993I202006069999_1591612606984718.png</folder>
+  <filename>PURCHASE_CRL9993I202006069999_1591612606984718.png</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999960/PURCHASE_CRL9993I202006069999_1591612606984718.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>481</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>wire</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>470.00</xmin>
+      <ymin>213.64</ymin>
+      <xmax>488.18</xmax>
+      <ymax>275.91</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dining_table</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>120.00</xmin>
+      <ymin>270.00</ymin>
+      <xmax>427.27</xmax>
+      <ymax>430.00</ymax>
+    </bndbox>
+  </object>
+</annotation>

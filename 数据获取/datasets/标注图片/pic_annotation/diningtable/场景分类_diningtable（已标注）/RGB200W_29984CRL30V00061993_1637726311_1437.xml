@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2022011501</folder>
+  <filename>RGB200W_29984CRL30V00061993_1637726311_1437.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2022011501/RGB200W_29984CRL30V00061993_1637726311_1437.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>blanket</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>161.82</xmin>
+      <ymin>203.18</ymin>
+      <xmax>316.36</xmax>
+      <ymax>218.64</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dining_table</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>145.45</xmin>
+      <ymin>110.00</ymin>
+      <xmax>262.73</xmax>
+      <ymax>201.82</ymax>
+    </bndbox>
+  </object>
+</annotation>
