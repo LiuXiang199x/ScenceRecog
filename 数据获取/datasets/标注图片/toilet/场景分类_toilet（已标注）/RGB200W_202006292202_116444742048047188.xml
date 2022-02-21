@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB200W_202006292202_116444742048047188.jpg</folder>
+  <filename>RGB200W_202006292202_116444742048047188.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999996/RGB200W_202006292202_116444742048047188.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>361</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>weight_scale</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>251.36</xmin>
+      <ymin>181.82</ymin>
+      <xmax>567.73</xmax>
+      <ymax>233.64</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>toilet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>95.91</xmin>
+      <ymin>102.27</ymin>
+      <xmax>222.27</xmax>
+      <ymax>184.55</ymax>
+    </bndbox>
+  </object>
+</annotation>

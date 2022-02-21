@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2021090301</folder>
+  <filename>calibration-5_19700101-084209right_calibration_UP20210903.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2021090301/calibration-5_19700101-084209right_calibration_UP20210903.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>toilet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>78.18</xmin>
+      <ymin>0.91</ymin>
+      <xmax>344.55</xmax>
+      <ymax>250.00</ymax>
+    </bndbox>
+  </object>
+</annotation>

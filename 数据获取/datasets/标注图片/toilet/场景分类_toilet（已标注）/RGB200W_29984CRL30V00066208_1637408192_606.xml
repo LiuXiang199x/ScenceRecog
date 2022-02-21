@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2021122501</folder>
+  <filename>RGB200W_29984CRL30V00066208_1637408192_606.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2021122501/RGB200W_29984CRL30V00066208_1637408192_606.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cat</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>181.36</xmin>
+      <ymin>153.64</ymin>
+      <xmax>338.18</xmax>
+      <ymax>260.45</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>toilet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>393.18</xmin>
+      <ymin>105.00</ymin>
+      <xmax>464.09</xmax>
+      <ymax>216.36</ymax>
+    </bndbox>
+  </object>
+</annotation>

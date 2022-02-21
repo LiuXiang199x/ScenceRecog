@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB200W_277985947_116444742258358817.jpg</folder>
+  <filename>RGB200W_277985947_116444742258358817.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999990/RGB200W_277985947_116444742258358817.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>361</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>toilet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>317.27</xmin>
+      <ymin>55.00</ymin>
+      <xmax>435.91</xmax>
+      <ymax>217.73</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>wire</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>340.00</xmin>
+      <ymin>36.36</ymin>
+      <xmax>358.64</xmax>
+      <ymax>63.18</ymax>
+    </bndbox>
+  </object>
+</annotation>

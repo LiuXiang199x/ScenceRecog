@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB100W_CRL30VDJ208Z2104_116445479428725507.jpg</folder>
+  <filename>RGB100W_CRL30VDJ208Z2104_116445479428725507.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999990/RGB100W_CRL30VDJ208Z2104_116445479428725507.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>360</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>toilet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>338.64</xmin>
+      <ymin>40.00</ymin>
+      <xmax>543.64</xmax>
+      <ymax>187.73</ymax>
+    </bndbox>
+  </object>
+</annotation>

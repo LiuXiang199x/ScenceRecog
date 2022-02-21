@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB100W_CRL30VDJ208Z2123_116444781199817948.jpg</folder>
+  <filename>RGB100W_CRL30VDJ208Z2123_116444781199817948.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999984/RGB100W_CRL30VDJ208Z2123_116444781199817948.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>360</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>toilet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>498.64</xmin>
+      <ymin>0.91</ymin>
+      <xmax>640.00</xmax>
+      <ymax>186.82</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>washing_machine</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>0.91</xmin>
+      <ymin>0.91</ymin>
+      <xmax>337.73</xmax>
+      <ymax>290.00</ymax>
+    </bndbox>
+  </object>
+</annotation>

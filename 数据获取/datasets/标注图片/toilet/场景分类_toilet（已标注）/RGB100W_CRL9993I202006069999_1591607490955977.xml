@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB100W_CRL9993I202006069999_1591607490955977.jpg</folder>
+  <filename>RGB100W_CRL9993I202006069999_1591607490955977.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999996/RGB100W_CRL9993I202006069999_1591607490955977.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>361</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>toilet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>309.55</xmin>
+      <ymin>114.09</ymin>
+      <xmax>430.91</xmax>
+      <ymax>203.18</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>wire</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>50.45</xmin>
+      <ymin>50.45</ymin>
+      <xmax>120.45</xmax>
+      <ymax>218.64</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB200W_29984_99999867_116444806592042126-228.963_229.045_326.654_190.137_0.268_0.177_-0.232_0.099.jpg</folder>
+  <filename>RGB200W_29984_99999867_116444806592042126-228.963_229.045_326.654_190.137_0.268_0.177_-0.232_0.099.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999990/RGB200W_29984_99999867_116444806592042126-228.963_229.045_326.654_190.137_0.268_0.177_-0.232_0.099.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>toilet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>365.00</xmin>
+      <ymin>100.00</ymin>
+      <xmax>478.64</xmax>
+      <ymax>213.64</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>door_anno</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>417.73</xmin>
+      <ymin>0.91</ymin>
+      <xmax>541.82</xmax>
+      <ymax>215.91</ymax>
+    </bndbox>
+  </object>
+</annotation>

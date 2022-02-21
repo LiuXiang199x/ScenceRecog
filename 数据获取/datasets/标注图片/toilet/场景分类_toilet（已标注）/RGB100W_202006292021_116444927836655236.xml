@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB100W_202006292021_116444927836655236.jpg</folder>
+  <filename>RGB100W_202006292021_116444927836655236.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999990/RGB100W_202006292021_116444927836655236.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>361</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>charger</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>26.82</xmin>
+      <ymin>105.00</ymin>
+      <xmax>211.36</xmax>
+      <ymax>217.73</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>toilet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>412.73</xmin>
+      <ymin>64.55</ymin>
+      <xmax>549.09</xmax>
+      <ymax>175.00</ymax>
+    </bndbox>
+  </object>
+</annotation>

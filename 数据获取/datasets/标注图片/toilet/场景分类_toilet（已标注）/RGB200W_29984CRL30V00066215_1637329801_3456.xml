@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2021121602</folder>
+  <filename>RGB200W_29984CRL30V00066215_1637329801_3456.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2021121602/RGB200W_29984CRL30V00066215_1637329801_3456.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>trash_can</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>420.45</xmin>
+      <ymin>127.27</ymin>
+      <xmax>517.73</xmax>
+      <ymax>231.36</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>toilet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>370.45</xmin>
+      <ymin>45.00</ymin>
+      <xmax>560.45</xmax>
+      <ymax>224.09</ymax>
+    </bndbox>
+  </object>
+</annotation>

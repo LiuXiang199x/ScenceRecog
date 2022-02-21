@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2021062201</folder>
+  <filename>19700101-091640right_calibration_UP20210623.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2021062201/19700101-091640right_calibration_UP20210623.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>toilet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>93.64</xmin>
+      <ymin>76.82</ymin>
+      <xmax>190.45</xmax>
+      <ymax>232.27</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>socks</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>310.91</xmin>
+      <ymin>246.36</ymin>
+      <xmax>551.36</xmax>
+      <ymax>361.36</ymax>
+    </bndbox>
+  </object>
+</annotation>

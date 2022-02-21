@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB100W_202006292021_116444817353829850.jpg</folder>
+  <filename>RGB100W_202006292021_116444817353829850.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999996/RGB100W_202006292021_116444817353829850.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>361</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>toilet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>194.55</xmin>
+      <ymin>46.82</ymin>
+      <xmax>253.18</xmax>
+      <ymax>158.18</ymax>
+    </bndbox>
+  </object>
+</annotation>

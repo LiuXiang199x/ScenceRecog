@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2021090801</folder>
+  <filename>-132752210580643309_UP20210908.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2021090801/-132752210580643309_UP20210908.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>toilet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>430.91</xmin>
+      <ymin>135.00</ymin>
+      <xmax>555.91</xmax>
+      <ymax>214.09</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>washing_machine</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>281.82</xmin>
+      <ymin>94.55</ymin>
+      <xmax>375.45</xmax>
+      <ymax>212.27</ymax>
+    </bndbox>
+  </object>
+</annotation>

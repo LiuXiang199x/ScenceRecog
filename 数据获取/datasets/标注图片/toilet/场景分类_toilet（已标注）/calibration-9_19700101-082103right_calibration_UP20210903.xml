@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2021090301</folder>
+  <filename>calibration-9_19700101-082103right_calibration_UP20210903.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2021090301/calibration-9_19700101-082103right_calibration_UP20210903.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>washing_machine</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>354.55</xmin>
+      <ymin>132.27</ymin>
+      <xmax>435.00</xmax>
+      <ymax>219.55</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>toilet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>456.36</xmin>
+      <ymin>161.36</ymin>
+      <xmax>574.09</xmax>
+      <ymax>227.27</ymax>
+    </bndbox>
+  </object>
+</annotation>

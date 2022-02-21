@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>19700101-083019right_calibration.jpg</folder>
+  <filename>19700101-083019right_calibration.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999969/19700101-083019right_calibration.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>toilet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>56.82</xmin>
+      <ymin>90.00</ymin>
+      <xmax>147.73</xmax>
+      <ymax>228.64</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>socks</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>298.64</xmin>
+      <ymin>235.00</ymin>
+      <xmax>401.82</xmax>
+      <ymax>267.73</ymax>
+    </bndbox>
+  </object>
+</annotation>

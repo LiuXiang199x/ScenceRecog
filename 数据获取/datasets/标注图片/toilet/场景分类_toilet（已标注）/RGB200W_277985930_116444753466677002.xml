@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB200W_277985930_116444753466677002.jpg</folder>
+  <filename>RGB200W_277985930_116444753466677002.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999996/RGB200W_277985930_116444753466677002.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>361</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>washing_machine</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>9.55</xmin>
+      <ymin>0.00</ymin>
+      <xmax>205.91</xmax>
+      <ymax>207.73</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>toilet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>231.82</xmin>
+      <ymin>85.45</ymin>
+      <xmax>310.45</xmax>
+      <ymax>220.91</ymax>
+    </bndbox>
+  </object>
+</annotation>

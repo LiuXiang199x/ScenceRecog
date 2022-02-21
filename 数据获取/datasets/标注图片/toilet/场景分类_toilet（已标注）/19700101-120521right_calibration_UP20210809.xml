@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>19700101-120521right_calibration_UP20210809.jpg</folder>
+  <filename>19700101-120521right_calibration_UP20210809.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999975/19700101-120521right_calibration_UP20210809.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>toilet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>177.73</xmin>
+      <ymin>0.00</ymin>
+      <xmax>435.00</xmax>
+      <ymax>247.73</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>plastic_toy</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>447.73</xmin>
+      <ymin>110.00</ymin>
+      <xmax>625.00</xmax>
+      <ymax>255.91</ymax>
+    </bndbox>
+  </object>
+</annotation>

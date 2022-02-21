@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2021071401</folder>
+  <filename>RGB200W_2998499999781_1626057593_2948_UP20210714.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2021071401/RGB200W_2998499999781_1626057593_2948_UP20210714.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>352</width>
+    <height>352</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>toilet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>48.64</xmin>
+      <ymin>105.45</ymin>
+      <xmax>165.00</xmax>
+      <ymax>210.45</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>chair_base</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>126.82</xmin>
+      <ymin>189.55</ymin>
+      <xmax>215.00</xmax>
+      <ymax>214.55</ymax>
+    </bndbox>
+  </object>
+</annotation>

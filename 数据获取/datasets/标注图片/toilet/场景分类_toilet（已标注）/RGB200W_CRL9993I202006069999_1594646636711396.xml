@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB200W_CRL9993I202006069999_1594646636711396.jpg</folder>
+  <filename>RGB200W_CRL9993I202006069999_1594646636711396.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999999/RGB200W_CRL9993I202006069999_1594646636711396.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>361</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>door_anno</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>302.27</xmin>
+      <ymin>0.91</ymin>
+      <xmax>635.91</xmax>
+      <ymax>256.82</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>toilet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>88.64</xmin>
+      <ymin>23.18</ymin>
+      <xmax>229.09</xmax>
+      <ymax>210.91</ymax>
+    </bndbox>
+  </object>
+</annotation>
