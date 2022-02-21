@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB200W_CRL9993I202006069999_1594645542527000.jpg</folder>
+  <filename>RGB200W_CRL9993I202006069999_1594645542527000.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999983/RGB200W_CRL9993I202006069999_1594645542527000.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>361</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>metal_chair_foot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>113.18</xmin>
+      <ymin>175.45</ymin>
+      <xmax>195.91</xmax>
+      <ymax>187.73</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dining_table</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>97.27</xmin>
+      <ymin>35.00</ymin>
+      <xmax>360.91</xmax>
+      <ymax>185.45</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB200W_CRL9993I202006069999_1594645488454680.jpg</folder>
+  <filename>RGB200W_CRL9993I202006069999_1594645488454680.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999999/RGB200W_CRL9993I202006069999_1594645488454680.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>361</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>bed</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>510.00</xmin>
+      <ymin>26.36</ymin>
+      <xmax>641.82</xmax>
+      <ymax>212.27</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cabinet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>446.36</xmin>
+      <ymin>119.55</ymin>
+      <xmax>521.36</xmax>
+      <ymax>204.55</ymax>
+    </bndbox>
+  </object>
+</annotation>

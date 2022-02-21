@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2021121001</folder>
+  <filename>RGB200W_29984CRL30V00054394_1637326870_4339.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2021121001/RGB200W_29984CRL30V00054394_1637326870_4339.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>plastic_stool</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>510.45</xmin>
+      <ymin>162.73</ymin>
+      <xmax>575.91</xmax>
+      <ymax>216.36</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sofa</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>330.91</xmin>
+      <ymin>143.18</ymin>
+      <xmax>553.64</xmax>
+      <ymax>212.73</ymax>
+    </bndbox>
+  </object>
+</annotation>

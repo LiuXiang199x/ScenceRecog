@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB100W_542500001097_116447092657901162.jpg</folder>
+  <filename>RGB100W_542500001097_116447092657901162.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999990/RGB100W_542500001097_116447092657901162.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>360</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>blanket</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>175.00</xmin>
+      <ymin>155.91</ymin>
+      <xmax>426.82</xmax>
+      <ymax>168.64</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sofa</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>215.91</xmin>
+      <ymin>60.00</ymin>
+      <xmax>573.64</xmax>
+      <ymax>168.64</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB200W_CRL9993I202006069999_1594646648748772.jpg</folder>
+  <filename>RGB200W_CRL9993I202006069999_1594646648748772.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999999/RGB200W_CRL9993I202006069999_1594646648748772.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>361</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>bed</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>200.45</xmin>
+      <ymin>63.18</ymin>
+      <xmax>452.73</xmax>
+      <ymax>176.82</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>shoe</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>218.64</xmin>
+      <ymin>166.82</ymin>
+      <xmax>244.55</xmax>
+      <ymax>178.64</ymax>
+    </bndbox>
+  </object>
+</annotation>

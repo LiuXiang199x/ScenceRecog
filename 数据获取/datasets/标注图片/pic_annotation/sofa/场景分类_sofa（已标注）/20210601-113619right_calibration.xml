@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>20210601-113619right_calibration.jpg</folder>
+  <filename>20210601-113619right_calibration.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999971/20210601-113619right_calibration.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>360</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>sofa</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>0.91</xmin>
+      <ymin>0.91</ymin>
+      <xmax>501.82</xmax>
+      <ymax>173.64</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>weight_scale</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>0.91</xmin>
+      <ymin>185.00</ymin>
+      <xmax>640.00</xmax>
+      <ymax>360.00</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2021080601</folder>
+  <filename>19700101-085200right_calibration_UP20210809.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2021080601/19700101-085200right_calibration_UP20210809.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>plastic_toy</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>286.36</xmin>
+      <ymin>47.27</ymin>
+      <xmax>520.91</xmax>
+      <ymax>305.00</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dining_table</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1.36</xmin>
+      <ymin>105.45</ymin>
+      <xmax>315.45</xmax>
+      <ymax>212.73</ymax>
+    </bndbox>
+  </object>
+</annotation>

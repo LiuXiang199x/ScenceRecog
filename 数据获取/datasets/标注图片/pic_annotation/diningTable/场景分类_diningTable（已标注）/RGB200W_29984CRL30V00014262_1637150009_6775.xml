@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2021120902</folder>
+  <filename>RGB200W_29984CRL30V00014262_1637150009_6775.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2021120902/RGB200W_29984CRL30V00014262_1637150009_6775.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>chair_base</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>535.00</xmin>
+      <ymin>197.27</ymin>
+      <xmax>640.91</xmax>
+      <ymax>216.82</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dining_table</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>254.55</xmin>
+      <ymin>37.27</ymin>
+      <xmax>383.64</xmax>
+      <ymax>205.45</ymax>
+    </bndbox>
+  </object>
+</annotation>

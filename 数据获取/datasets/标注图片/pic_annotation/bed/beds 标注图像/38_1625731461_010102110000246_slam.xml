@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2021122870</folder>
+  <filename>38_1625731461_010102110000246_slam.png</filename>
+  <path>http://172.18.39.209:9000/aliimages/2021122870/38_1625731461_010102110000246_slam.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>140</width>
+    <height>144</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>room</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>30.00</xmin>
+      <ymin>29.09</ymin>
+      <xmax>110.45</xmax>
+      <ymax>115.00</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bed</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>43.64</xmin>
+      <ymin>69.09</ymin>
+      <xmax>79.09</xmax>
+      <ymax>111.82</ymax>
+    </bndbox>
+  </object>
+</annotation>

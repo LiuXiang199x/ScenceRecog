@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2021090301</folder>
+  <filename>calibration-3_19700101-083506right_calibration_UP20210903.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2021090301/calibration-3_19700101-083506right_calibration_UP20210903.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>sofa</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>31.82</xmin>
+      <ymin>25.91</ymin>
+      <xmax>317.27</xmax>
+      <ymax>225.91</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>socks</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>318.64</xmin>
+      <ymin>212.27</ymin>
+      <xmax>382.27</xmax>
+      <ymax>245.00</ymax>
+    </bndbox>
+  </object>
+</annotation>

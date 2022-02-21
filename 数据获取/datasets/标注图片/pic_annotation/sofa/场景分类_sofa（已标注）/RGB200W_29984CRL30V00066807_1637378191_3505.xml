@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2021122702</folder>
+  <filename>RGB200W_29984CRL30V00066807_1637378191_3505.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2021122702/RGB200W_29984CRL30V00066807_1637378191_3505.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>sofa</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>0.45</xmin>
+      <ymin>59.09</ymin>
+      <xmax>620.00</xmax>
+      <ymax>221.36</ymax>
+    </bndbox>
+  </object>
+</annotation>

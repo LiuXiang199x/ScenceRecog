@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB200W_29984_99999764_116445479524947230-227.634_227.775_323.583_186.727_0.278_0.143_-0.177_0.066.jpg</folder>
+  <filename>RGB200W_29984_99999764_116445479524947230-227.634_227.775_323.583_186.727_0.278_0.143_-0.177_0.066.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999990/RGB200W_29984_99999764_116445479524947230-227.634_227.775_323.583_186.727_0.278_0.143_-0.177_0.066.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>slipper</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>427.73</xmin>
+      <ymin>185.00</ymin>
+      <xmax>556.82</xmax>
+      <ymax>237.73</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sofa</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>301.82</xmin>
+      <ymin>26.82</ymin>
+      <xmax>598.64</xmax>
+      <ymax>227.73</ymax>
+    </bndbox>
+  </object>
+</annotation>

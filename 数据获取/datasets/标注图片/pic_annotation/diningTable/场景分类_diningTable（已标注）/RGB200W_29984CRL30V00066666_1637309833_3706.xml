@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2021121702</folder>
+  <filename>RGB200W_29984CRL30V00066666_1637309833_3706.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2021121702/RGB200W_29984CRL30V00066666_1637309833_3706.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>dining_table</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>197.73</xmin>
+      <ymin>118.64</ymin>
+      <xmax>302.27</xmax>
+      <ymax>220.00</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>door_anno</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>484.55</xmin>
+      <ymin>0.91</ymin>
+      <xmax>596.82</xmax>
+      <ymax>217.73</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB200W_010102104221028_116446812391489131.jpg</folder>
+  <filename>RGB200W_010102104221028_116446812391489131.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999985/RGB200W_010102104221028_116446812391489131.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>bed</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>35.91</xmin>
+      <ymin>0.91</ymin>
+      <xmax>641.82</xmax>
+      <ymax>227.73</ymax>
+    </bndbox>
+  </object>
+</annotation>

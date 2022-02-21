@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2021090801</folder>
+  <filename>-132752316804803389_UP20210908.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2021090801/-132752316804803389_UP20210908.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>plastic_toy</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>187.73</xmin>
+      <ymin>192.27</ymin>
+      <xmax>316.36</xmax>
+      <ymax>239.55</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sofa</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>2.27</xmin>
+      <ymin>83.18</ymin>
+      <xmax>181.36</xmax>
+      <ymax>203.18</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB200W_010102104301124_116447296852174427.jpg</folder>
+  <filename>RGB200W_010102104301124_116447296852174427.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999985/RGB200W_010102104301124_116447296852174427.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>bed</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>377.73</xmin>
+      <ymin>166.82</ymin>
+      <xmax>447.73</xmax>
+      <ymax>226.82</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blanket</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>412.73</xmin>
+      <ymin>222.73</ymin>
+      <xmax>641.82</xmax>
+      <ymax>237.73</ymax>
+    </bndbox>
+  </object>
+</annotation>

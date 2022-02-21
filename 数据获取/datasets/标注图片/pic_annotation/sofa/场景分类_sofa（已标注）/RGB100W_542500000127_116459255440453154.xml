@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>20210501</folder>
+  <filename>RGB100W_542500000127_116459255440453154.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/20210501/RGB100W_542500000127_116459255440453154.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>360</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>floor_title</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>157.73</xmin>
+      <ymin>223.18</ymin>
+      <xmax>252.27</xmax>
+      <ymax>326.36</ymax>
+    </bndbox>
+  </object>
+</annotation>

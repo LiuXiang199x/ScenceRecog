@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2021071402</folder>
+  <filename>RGB200W_2998499999781_116444751937655733_rgb_UP20210715.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2021071402/RGB200W_2998499999781_116444751937655733_rgb_UP20210715.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>352</width>
+    <height>352</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>dirt</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>105.91</xmin>
+      <ymin>244.55</ymin>
+      <xmax>351.36</xmax>
+      <ymax>350.91</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sofa</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>105.45</xmin>
+      <ymin>90.91</ymin>
+      <xmax>350.91</xmax>
+      <ymax>216.36</ymax>
+    </bndbox>
+  </object>
+</annotation>

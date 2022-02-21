@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2021090601</folder>
+  <filename>RGB100W_542500000995_116445783228288852_UP20210906.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2021090601/RGB100W_542500000995_116445783228288852_UP20210906.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>360</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>bed</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>110.91</xmin>
+      <ymin>36.36</ymin>
+      <xmax>455.45</xmax>
+      <ymax>182.27</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>door_anno</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>494.55</xmin>
+      <ymin>3.18</ymin>
+      <xmax>550.00</xmax>
+      <ymax>176.36</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB100W_CRL30VDJ208Z2127_116444737758955047.jpg</folder>
+  <filename>RGB100W_CRL30VDJ208Z2127_116444737758955047.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999990/RGB100W_CRL30VDJ208Z2127_116444737758955047.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>360</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>sofa</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>228.64</xmin>
+      <ymin>103.64</ymin>
+      <xmax>425.00</xmax>
+      <ymax>176.82</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB200W_29984_99999283_116445224716309905.jpg</folder>
+  <filename>RGB200W_29984_99999283_116445224716309905.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999990/RGB200W_29984_99999283_116445224716309905.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>tea_table</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>385.00</xmin>
+      <ymin>158.64</ymin>
+      <xmax>536.82</xmax>
+      <ymax>216.82</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sofa</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>455.00</xmin>
+      <ymin>118.64</ymin>
+      <xmax>636.82</xmax>
+      <ymax>212.73</ymax>
+    </bndbox>
+  </object>
+</annotation>

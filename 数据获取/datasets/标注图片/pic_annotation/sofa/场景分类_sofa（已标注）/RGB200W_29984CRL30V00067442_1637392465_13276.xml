@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2021122703</folder>
+  <filename>RGB200W_29984CRL30V00067442_1637392465_13276.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2021122703/RGB200W_29984CRL30V00067442_1637392465_13276.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>wire</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>78.64</xmin>
+      <ymin>137.27</ymin>
+      <xmax>182.27</xmax>
+      <ymax>232.27</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sofa</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>116.36</xmin>
+      <ymin>0.00</ymin>
+      <xmax>431.82</xmax>
+      <ymax>241.82</ymax>
+    </bndbox>
+  </object>
+</annotation>

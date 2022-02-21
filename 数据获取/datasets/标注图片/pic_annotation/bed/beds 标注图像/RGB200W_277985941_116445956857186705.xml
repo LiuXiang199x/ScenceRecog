@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB200W_277985941_116445956857186705.jpg</folder>
+  <filename>RGB200W_277985941_116445956857186705.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999983/RGB200W_277985941_116445956857186705.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>361</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>charger</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>392.73</xmin>
+      <ymin>169.09</ymin>
+      <xmax>520.91</xmax>
+      <ymax>246.82</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bed</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>222.27</xmin>
+      <ymin>149.09</ymin>
+      <xmax>305.00</xmax>
+      <ymax>205.91</ymax>
+    </bndbox>
+  </object>
+</annotation>

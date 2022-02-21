@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2022020765</folder>
+  <filename>2022_01_14_20_00_3717.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2022020765/2022_01_14_20_00_3717.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>spitball</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>66.82</xmin>
+      <ymin>223.64</ymin>
+      <xmax>260.45</xmax>
+      <ymax>255.00</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>chair_foot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>0.91</xmin>
+      <ymin>169.55</ymin>
+      <xmax>64.09</xmax>
+      <ymax>223.18</ymax>
+    </bndbox>
+  </object>
+</annotation>

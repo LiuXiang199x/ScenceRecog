@@ -1,7 +1,7 @@
 import requests
 
-pic_path = "/home/agent/PICCCCCC/"
-url_file = open("/home/agent/ScenceRecog/数据获取/datasets/35Wto7paq/pics_url/35_1(start_1).txt")
+pic_path = "数据获取/datasets/标注图片/pics_url/toilet/jpg/"
+url_file = open("数据获取/datasets/标注图片/pics_url/toilet/toilet.txt")
 url_datas = url_file.readlines()
 
 for data_url in url_datas:

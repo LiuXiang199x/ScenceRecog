@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB200W_010102104301107_116444746536065955.jpg</folder>
+  <filename>RGB200W_010102104301107_116444746536065955.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999986/RGB200W_010102104301107_116444746536065955.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>plastic_toy</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>137.73</xmin>
+      <ymin>195.00</ymin>
+      <xmax>283.64</xmax>
+      <ymax>236.82</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dining_table</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>35.00</xmin>
+      <ymin>0.91</ymin>
+      <xmax>443.64</xmax>
+      <ymax>255.00</ymax>
+    </bndbox>
+  </object>
+</annotation>

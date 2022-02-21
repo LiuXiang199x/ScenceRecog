@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2021120630</folder>
+  <filename>RGB200W_29984CRL30V00005521_1637128039_1809.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2021120630/RGB200W_29984CRL30V00005521_1637128039_1809.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>sofa</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>124.55</xmin>
+      <ymin>130.91</ymin>
+      <xmax>272.27</xmax>
+      <ymax>221.36</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>trash_can</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>38.64</xmin>
+      <ymin>176.36</ymin>
+      <xmax>72.27</xmax>
+      <ymax>216.82</ymax>
+    </bndbox>
+  </object>
+</annotation>

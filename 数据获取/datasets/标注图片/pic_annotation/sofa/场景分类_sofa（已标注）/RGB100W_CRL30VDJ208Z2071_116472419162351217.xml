@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>20210501</folder>
+  <filename>RGB100W_CRL30VDJ208Z2071_116472419162351217.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/20210501/RGB100W_CRL30VDJ208Z2071_116472419162351217.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>360</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>door</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>384.55</xmin>
+      <ymin>83.64</ymin>
+      <xmax>524.09</xmax>
+      <ymax>176.82</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>floor_title</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>380.91</xmin>
+      <ymin>204.55</ymin>
+      <xmax>510.91</xmax>
+      <ymax>279.55</ymax>
+    </bndbox>
+  </object>
+</annotation>

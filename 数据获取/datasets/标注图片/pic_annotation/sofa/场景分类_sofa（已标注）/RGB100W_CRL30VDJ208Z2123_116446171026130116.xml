@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB100W_CRL30VDJ208Z2123_116446171026130116.jpg</folder>
+  <filename>RGB100W_CRL30VDJ208Z2123_116446171026130116.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999990/RGB100W_CRL30VDJ208Z2123_116446171026130116.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>360</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>wire</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>508.64</xmin>
+      <ymin>175.91</ymin>
+      <xmax>640.00</xmax>
+      <ymax>260.00</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sofa</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>10.91</xmin>
+      <ymin>125.91</ymin>
+      <xmax>88.64</xmax>
+      <ymax>171.82</ymax>
+    </bndbox>
+  </object>
+</annotation>

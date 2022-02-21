@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB100W_542500000058_116458524454447572.jpg</folder>
+  <filename>RGB100W_542500000058_116458524454447572.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999980/RGB100W_542500000058_116458524454447572.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>360</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>bed</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>493.64</xmin>
+      <ymin>30.91</ymin>
+      <xmax>640.00</xmax>
+      <ymax>151.82</ymax>
+    </bndbox>
+  </object>
+</annotation>

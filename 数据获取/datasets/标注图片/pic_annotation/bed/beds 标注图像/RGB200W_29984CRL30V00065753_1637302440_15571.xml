@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2021121005</folder>
+  <filename>RGB200W_29984CRL30V00065753_1637302440_15571.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2021121005/RGB200W_29984CRL30V00065753_1637302440_15571.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>bed</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>0.00</xmin>
+      <ymin>0.00</ymin>
+      <xmax>289.09</xmax>
+      <ymax>240.00</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>door_anno</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>323.18</xmin>
+      <ymin>24.09</ymin>
+      <xmax>346.36</xmax>
+      <ymax>208.64</ymax>
+    </bndbox>
+  </object>
+</annotation>

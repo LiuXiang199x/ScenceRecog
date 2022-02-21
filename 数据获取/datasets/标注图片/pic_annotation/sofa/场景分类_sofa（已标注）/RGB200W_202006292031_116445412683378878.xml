@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB200W_202006292031_116445412683378878.jpg</folder>
+  <filename>RGB200W_202006292031_116445412683378878.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999990/RGB200W_202006292031_116445412683378878.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>361</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>sofa</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>228.64</xmin>
+      <ymin>63.64</ymin>
+      <xmax>409.55</xmax>
+      <ymax>192.73</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>refrigerator</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>141.36</xmin>
+      <ymin>18.64</ymin>
+      <xmax>267.27</xmax>
+      <ymax>190.91</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2022020762</folder>
+  <filename>2022_01_14_13_44_4536.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2022020762/2022_01_14_13_44_4536.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>toothbrush</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>218.64</xmin>
+      <ymin>206.36</ymin>
+      <xmax>252.27</xmax>
+      <ymax>246.82</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>chair_foot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>5.00</xmin>
+      <ymin>144.09</ymin>
+      <xmax>218.18</xmax>
+      <ymax>210.00</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB100W_277985990_116444736570401385.jpg</folder>
+  <filename>RGB100W_277985990_116444736570401385.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999996/RGB100W_277985990_116444736570401385.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>361</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>sofa</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>0.45</xmin>
+      <ymin>33.18</ymin>
+      <xmax>292.73</xmax>
+      <ymax>200.45</ymax>
+    </bndbox>
+  </object>
+</annotation>

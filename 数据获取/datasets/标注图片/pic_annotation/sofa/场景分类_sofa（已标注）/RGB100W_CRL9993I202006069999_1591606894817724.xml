@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB100W_CRL9993I202006069999_1591606894817724.jpg</folder>
+  <filename>RGB100W_CRL9993I202006069999_1591606894817724.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999984/RGB100W_CRL9993I202006069999_1591606894817724.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>361</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>dog</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>167.27</xmin>
+      <ymin>0.45</ymin>
+      <xmax>366.36</xmax>
+      <ymax>227.27</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sofa</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>86.82</xmin>
+      <ymin>5.45</ymin>
+      <xmax>412.27</xmax>
+      <ymax>201.36</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB100W_542500001124_116445278231979948.jpg</folder>
+  <filename>RGB100W_542500001124_116445278231979948.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999990/RGB100W_542500001124_116445278231979948.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>360</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>sofa</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>122.73</xmin>
+      <ymin>0.91</ymin>
+      <xmax>640.00</xmax>
+      <ymax>195.91</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>door_anno</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>40.91</xmin>
+      <ymin>0.91</ymin>
+      <xmax>132.73</xmax>
+      <ymax>172.73</ymax>
+    </bndbox>
+  </object>
+</annotation>

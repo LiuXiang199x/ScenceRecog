@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB100W_CRL30VDJ208Z2123_116445338586326094.jpg</folder>
+  <filename>RGB100W_CRL30VDJ208Z2123_116445338586326094.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999996/RGB100W_CRL30VDJ208Z2123_116445338586326094.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>360</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>metal_chair_foot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>316.82</xmin>
+      <ymin>173.64</ymin>
+      <xmax>522.73</xmax>
+      <ymax>200.91</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sofa</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>516.82</xmin>
+      <ymin>107.73</ymin>
+      <xmax>617.73</xmax>
+      <ymax>167.73</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB200W_CRL9993I202006069999_1594644718608590.jpg</folder>
+  <filename>RGB200W_CRL9993I202006069999_1594644718608590.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999983/RGB200W_CRL9993I202006069999_1594644718608590.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>361</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>sofa</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>413.18</xmin>
+      <ymin>110.91</ymin>
+      <xmax>582.73</xmax>
+      <ymax>212.73</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>slipper</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>413.18</xmin>
+      <ymin>200.45</ymin>
+      <xmax>435.45</xmax>
+      <ymax>209.55</ymax>
+    </bndbox>
+  </object>
+</annotation>

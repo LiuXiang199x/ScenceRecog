@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2022020756</folder>
+  <filename>20220120112340921.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2022020756/20220120112340921.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>bottle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>357.27</xmin>
+      <ymin>0.45</ymin>
+      <xmax>429.09</xmax>
+      <ymax>256.82</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bed</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>25.00</xmin>
+      <ymin>0.91</ymin>
+      <xmax>519.55</xmax>
+      <ymax>224.55</ymax>
+    </bndbox>
+  </object>
+</annotation>

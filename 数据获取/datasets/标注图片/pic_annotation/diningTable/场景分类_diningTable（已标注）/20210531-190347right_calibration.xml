@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>20210531-190347right_calibration.jpg</folder>
+  <filename>20210531-190347right_calibration.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999983/20210531-190347right_calibration.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>360</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>chair_base</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>107.73</xmin>
+      <ymin>125.91</ymin>
+      <xmax>550.91</xmax>
+      <ymax>255.00</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dining_table</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>445.91</xmin>
+      <ymin>37.73</ymin>
+      <xmax>600.91</xmax>
+      <ymax>127.73</ymax>
+    </bndbox>
+  </object>
+</annotation>
