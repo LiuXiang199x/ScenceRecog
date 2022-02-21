@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB200W_29984_99999439_116445296819472495.jpg</folder>
+  <filename>RGB200W_29984_99999439_116445296819472495.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999997/RGB200W_29984_99999439_116445296819472495.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>bed</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>0.91</xmin>
+      <ymin>47.73</ymin>
+      <xmax>257.73</xmax>
+      <ymax>236.82</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>wire</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>396.82</xmin>
+      <ymin>0.91</ymin>
+      <xmax>412.73</xmax>
+      <ymax>86.82</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2021090601</folder>
+  <filename>RGB100W_542500000995_116446587850542795_UP20210906.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2021090601/RGB100W_542500000995_116446587850542795_UP20210906.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>360</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>bed</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>254.55</xmin>
+      <ymin>50.45</ymin>
+      <xmax>598.18</xmax>
+      <ymax>177.73</ymax>
+    </bndbox>
+  </object>
+</annotation>

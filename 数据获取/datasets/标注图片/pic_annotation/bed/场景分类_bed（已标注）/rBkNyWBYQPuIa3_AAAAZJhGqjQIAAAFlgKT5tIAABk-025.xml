@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2021101602</folder>
+  <filename>rBkNyWBYQPuIa3_AAAAZJhGqjQIAAAFlgKT5tIAABk-025.png</filename>
+  <path>http://172.18.39.209:9000/aliimages/2021101602/rBkNyWBYQPuIa3_AAAAZJhGqjQIAAAFlgKT5tIAABk-025.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>919</width>
+    <height>958</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>room</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>297.68</xmin>
+      <ymin>300.93</ymin>
+      <xmax>618.80</xmax>
+      <ymax>656.58</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bed</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>359.56</xmin>
+      <ymin>461.82</ymin>
+      <xmax>507.42</xmax>
+      <ymax>655.28</ymax>
+    </bndbox>
+  </object>
+</annotation>

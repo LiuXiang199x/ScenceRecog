@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2021122001</folder>
+  <filename>RGB200W_29984CRL30V00066993_1637287771_2280.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2021122001/RGB200W_29984CRL30V00066993_1637287771_2280.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>bed</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>210.91</xmin>
+      <ymin>125.45</ymin>
+      <xmax>363.18</xmax>
+      <ymax>205.45</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>door_sill</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>0.00</xmin>
+      <ymin>237.73</ymin>
+      <xmax>494.09</xmax>
+      <ymax>354.09</ymax>
+    </bndbox>
+  </object>
+</annotation>

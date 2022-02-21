@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB200W_277985943_116445235607964776.jpg</folder>
+  <filename>RGB200W_277985943_116445235607964776.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999990/RGB200W_277985943_116445235607964776.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>361</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>bed</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1.82</xmin>
+      <ymin>25.91</ymin>
+      <xmax>354.09</xmax>
+      <ymax>212.27</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>slipper</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>327.27</xmin>
+      <ymin>180.45</ymin>
+      <xmax>374.09</xmax>
+      <ymax>197.27</ymax>
+    </bndbox>
+  </object>
+</annotation>

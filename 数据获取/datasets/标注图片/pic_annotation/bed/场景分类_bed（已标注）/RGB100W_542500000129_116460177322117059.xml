@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>20210501</folder>
+  <filename>RGB100W_542500000129_116460177322117059.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/20210501/RGB100W_542500000129_116460177322117059.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>360</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>slipper</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>419.09</xmin>
+      <ymin>105.91</ymin>
+      <xmax>605.91</xmax>
+      <ymax>183.18</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bed</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>16.36</xmin>
+      <ymin>9.55</ymin>
+      <xmax>325.91</xmax>
+      <ymax>155.00</ymax>
+    </bndbox>
+  </object>
+</annotation>

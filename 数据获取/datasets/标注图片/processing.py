@@ -12,8 +12,8 @@ from cv2 import split
 
 def creat_txts(xml_path):
 
-    saveUrl_file = open("数据获取/datasets/标注图片/pics_name/toilet/toilet.txt", "w")
-    saveName_file = open("数据获取/datasets/标注图片/pics_url/toilet/toilet.txt", "w")
+    saveUrl_file = open("数据获取/datasets/标注图片/pics_name/bed/bed.txt", "w")
+    saveName_file = open("数据获取/datasets/标注图片/pics_url/bed/bed.txt", "w")
     i = 0
     for tmp_xml in os.listdir(xml_path):
         i += 1
@@ -26,6 +26,6 @@ def creat_txts(xml_path):
     saveName_file.close()
     saveUrl_file.close()
 
-toilet_xml_path = "数据获取/datasets/标注图片/toilet/场景分类_toilet（已标注）"
+toilet_xml_path = "数据获取/datasets/标注图片/pic_annotation/bed/场景分类_bed（已标注）"
 creat_txts(toilet_xml_path)
 

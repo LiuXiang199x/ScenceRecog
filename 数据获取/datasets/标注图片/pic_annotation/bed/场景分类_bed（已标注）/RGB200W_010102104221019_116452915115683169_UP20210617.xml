@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2021061702</folder>
+  <filename>RGB200W_010102104221019_116452915115683169_UP20210617.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2021061702/RGB200W_010102104221019_116452915115683169_UP20210617.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cabinet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>169.55</xmin>
+      <ymin>155.00</ymin>
+      <xmax>245.91</xmax>
+      <ymax>219.09</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bed1</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>230.45</xmin>
+      <ymin>0.00</ymin>
+      <xmax>626.36</xmax>
+      <ymax>246.82</ymax>
+    </bndbox>
+  </object>
+</annotation>

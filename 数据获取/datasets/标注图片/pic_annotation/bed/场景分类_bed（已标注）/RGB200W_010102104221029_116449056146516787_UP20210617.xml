@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2021061702</folder>
+  <filename>RGB200W_010102104221029_116449056146516787_UP20210617.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2021061702/RGB200W_010102104221029_116449056146516787_UP20210617.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>&#xd;
+cupboard</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>366.82</xmin>
+      <ymin>17.73</ymin>
+      <xmax>611.36</xmax>
+      <ymax>233.64</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>&#xd;
+cupboard</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>298.64</xmin>
+      <ymin>175.45</ymin>
+      <xmax>361.36</xmax>
+      <ymax>218.18</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>&#xd;
+cupboard</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>201.36</xmin>
+      <ymin>107.73</ymin>
+      <xmax>296.82</xmax>
+      <ymax>226.82</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dining_table1</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>0.00</xmin>
+      <ymin>0.00</ymin>
+      <xmax>289.09</xmax>
+      <ymax>242.73</ymax>
+    </bndbox>
+  </object>
+</annotation>
