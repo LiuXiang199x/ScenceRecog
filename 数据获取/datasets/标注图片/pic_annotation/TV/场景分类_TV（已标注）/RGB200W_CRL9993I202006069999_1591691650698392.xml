@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB200W_CRL9993I202006069999_1591691650698392.jpg</folder>
+  <filename>RGB200W_CRL9993I202006069999_1591691650698392.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999983/RGB200W_CRL9993I202006069999_1591691650698392.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>361</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>charger</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>305.00</xmin>
+      <ymin>198.18</ymin>
+      <xmax>380.45</xmax>
+      <ymax>246.36</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>TV_stand</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>37.73</xmin>
+      <ymin>39.55</ymin>
+      <xmax>441.36</xmax>
+      <ymax>237.73</ymax>
+    </bndbox>
+  </object>
+</annotation>

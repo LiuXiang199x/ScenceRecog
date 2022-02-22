@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB200W_2998499999442_116444742362974302_rgb.jpg</folder>
+  <filename>RGB200W_2998499999442_116444742362974302_rgb.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999968/RGB200W_2998499999442_116444742362974302_rgb.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>352</width>
+    <height>352</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>bottle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>287.73</xmin>
+      <ymin>53.64</ymin>
+      <xmax>351.82</xmax>
+      <ymax>248.64</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cupboard</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>0.91</xmin>
+      <ymin>0.91</ymin>
+      <xmax>351.82</xmax>
+      <ymax>258.64</ymax>
+    </bndbox>
+  </object>
+</annotation>

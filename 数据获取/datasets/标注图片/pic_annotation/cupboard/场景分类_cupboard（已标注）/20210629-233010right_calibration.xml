@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>20210629-233010right_calibration.jpg</folder>
+  <filename>20210629-233010right_calibration.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999966/20210629-233010right_calibration.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>360</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cupboard</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>26.82</xmin>
+      <ymin>0.91</ymin>
+      <xmax>640.00</xmax>
+      <ymax>191.82</ymax>
+    </bndbox>
+  </object>
+</annotation>

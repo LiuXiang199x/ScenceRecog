@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2021121301</folder>
+  <filename>RGB200W_29984CRL30V00067128_1637321263_1456.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2021121301/RGB200W_29984CRL30V00067128_1637321263_1456.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>door_sill</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>299.55</xmin>
+      <ymin>217.27</ymin>
+      <xmax>610.45</xmax>
+      <ymax>237.27</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>tea_table</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>527.27</xmin>
+      <ymin>164.09</ymin>
+      <xmax>574.09</xmax>
+      <ymax>211.82</ymax>
+    </bndbox>
+  </object>
+</annotation>

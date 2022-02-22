@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB200W_CRL9993I202006069999_1594646071830395.jpg</folder>
+  <filename>RGB200W_CRL9993I202006069999_1594646071830395.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999996/RGB200W_CRL9993I202006069999_1594646071830395.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>361</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>slipper</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>0.00</xmin>
+      <ymin>151.36</ymin>
+      <xmax>120.00</xmax>
+      <ymax>232.73</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cupboard</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>115.91</xmin>
+      <ymin>2.27</ymin>
+      <xmax>270.45</xmax>
+      <ymax>206.36</ymax>
+    </bndbox>
+  </object>
+</annotation>

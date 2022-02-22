@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2021121005</folder>
+  <filename>RGB200W_29984CRL30V00065753_1637299818_3614.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2021121005/RGB200W_29984CRL30V00065753_1637299818_3614.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>washing_machine</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>368.18</xmin>
+      <ymin>0.45</ymin>
+      <xmax>618.64</xmax>
+      <ymax>224.55</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>TV_stand</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>155.00</xmin>
+      <ymin>134.55</ymin>
+      <xmax>257.73</xmax>
+      <ymax>184.09</ymax>
+    </bndbox>
+  </object>
+</annotation>

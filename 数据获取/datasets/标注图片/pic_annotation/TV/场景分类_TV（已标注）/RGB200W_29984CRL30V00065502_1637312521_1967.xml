@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2021121601</folder>
+  <filename>RGB200W_29984CRL30V00065502_1637312521_1967.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2021121601/RGB200W_29984CRL30V00065502_1637312521_1967.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>refrigerator</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>218.18</xmin>
+      <ymin>24.09</ymin>
+      <xmax>335.91</xmax>
+      <ymax>219.55</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>TV_stand</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>26.36</xmin>
+      <ymin>93.18</ymin>
+      <xmax>227.27</xmax>
+      <ymax>224.55</ymax>
+    </bndbox>
+  </object>
+</annotation>

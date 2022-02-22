@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2021121501</folder>
+  <filename>RGB200W_29984CRL30V00018410_1637284832_10972.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2021121501/RGB200W_29984CRL30V00018410_1637284832_10972.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>TV_stand</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>0.00</xmin>
+      <ymin>51.36</ymin>
+      <xmax>380.45</xmax>
+      <ymax>205.45</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blanket</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>0.45</xmin>
+      <ymin>195.45</ymin>
+      <xmax>640.91</xmax>
+      <ymax>361.36</ymax>
+    </bndbox>
+  </object>
+</annotation>

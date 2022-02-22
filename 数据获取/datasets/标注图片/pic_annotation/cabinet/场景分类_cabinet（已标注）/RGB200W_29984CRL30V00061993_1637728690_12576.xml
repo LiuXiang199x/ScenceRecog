@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2022011501</folder>
+  <filename>RGB200W_29984CRL30V00061993_1637728690_12576.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2022011501/RGB200W_29984CRL30V00061993_1637728690_12576.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cabinet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>336.82</xmin>
+      <ymin>2.27</ymin>
+      <xmax>639.55</xmax>
+      <ymax>237.27</ymax>
+    </bndbox>
+  </object>
+</annotation>

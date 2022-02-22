@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB200W_010102104301115_116448586526597302.jpg</folder>
+  <filename>RGB200W_010102104301115_116448586526597302.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999986/RGB200W_010102104301115_116448586526597302.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>slipper</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>70.00</xmin>
+      <ymin>185.00</ymin>
+      <xmax>187.73</xmax>
+      <ymax>257.73</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>TV_stand</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>440.00</xmin>
+      <ymin>157.73</ymin>
+      <xmax>573.64</xmax>
+      <ymax>216.82</ymax>
+    </bndbox>
+  </object>
+</annotation>

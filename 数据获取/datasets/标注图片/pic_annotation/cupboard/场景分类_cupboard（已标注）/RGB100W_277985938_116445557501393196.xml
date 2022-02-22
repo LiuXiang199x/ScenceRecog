@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB100W_277985938_116445557501393196.jpg</folder>
+  <filename>RGB100W_277985938_116445557501393196.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999990/RGB100W_277985938_116445557501393196.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>361</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cupboard</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>0.45</xmin>
+      <ymin>0.45</ymin>
+      <xmax>289.09</xmax>
+      <ymax>166.82</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>shoe</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>309.55</xmin>
+      <ymin>115.00</ymin>
+      <xmax>371.36</xmax>
+      <ymax>147.73</ymax>
+    </bndbox>
+  </object>
+</annotation>

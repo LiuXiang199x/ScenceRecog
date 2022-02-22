@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB200W_CRL9993I202006069999_1591690562613728.jpg</folder>
+  <filename>RGB200W_CRL9993I202006069999_1591690562613728.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999999/RGB200W_CRL9993I202006069999_1591690562613728.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>361</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>tea_table</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>0.00</xmin>
+      <ymin>120.45</ymin>
+      <xmax>139.09</xmax>
+      <ymax>223.64</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>metal_chair_foot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>119.55</xmin>
+      <ymin>209.09</ymin>
+      <xmax>240.00</xmax>
+      <ymax>228.64</ymax>
+    </bndbox>
+  </object>
+</annotation>

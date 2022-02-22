@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB100W_CRL9993I202006069999_1591607490474130.jpg</folder>
+  <filename>RGB100W_CRL9993I202006069999_1591607490474130.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999990/RGB100W_CRL9993I202006069999_1591607490474130.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>361</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>blanket</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>440.45</xmin>
+      <ymin>167.73</ymin>
+      <xmax>641.82</xmax>
+      <ymax>219.55</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>tea_table</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>251.36</xmin>
+      <ymin>126.36</ymin>
+      <xmax>316.82</xmax>
+      <ymax>161.82</ymax>
+    </bndbox>
+  </object>
+</annotation>

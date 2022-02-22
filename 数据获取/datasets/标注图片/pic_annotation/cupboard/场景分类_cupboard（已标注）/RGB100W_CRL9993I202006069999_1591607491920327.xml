@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB100W_CRL9993I202006069999_1591607491920327.jpg</folder>
+  <filename>RGB100W_CRL9993I202006069999_1591607491920327.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999990/RGB100W_CRL9993I202006069999_1591607491920327.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>361</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cupboard</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>371.36</xmin>
+      <ymin>32.73</ymin>
+      <xmax>532.27</xmax>
+      <ymax>185.45</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB200W_CRL9993I202006069999_1591690660000324.jpg</folder>
+  <filename>RGB200W_CRL9993I202006069999_1591690660000324.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999996/RGB200W_CRL9993I202006069999_1591690660000324.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>361</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>washing_machine</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>292.27</xmin>
+      <ymin>12.27</ymin>
+      <xmax>421.82</xmax>
+      <ymax>193.18</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cupboard</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>421.82</xmin>
+      <ymin>11.36</ymin>
+      <xmax>571.82</xmax>
+      <ymax>187.27</ymax>
+    </bndbox>
+  </object>
+</annotation>

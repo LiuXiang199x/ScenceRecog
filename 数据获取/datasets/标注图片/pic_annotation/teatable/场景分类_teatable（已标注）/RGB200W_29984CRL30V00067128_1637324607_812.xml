@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2021121301</folder>
+  <filename>RGB200W_29984CRL30V00067128_1637324607_812.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2021121301/RGB200W_29984CRL30V00067128_1637324607_812.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>door_anno</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>294.55</xmin>
+      <ymin>0.00</ymin>
+      <xmax>519.09</xmax>
+      <ymax>221.36</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>tea_table</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>222.73</xmin>
+      <ymin>178.18</ymin>
+      <xmax>292.27</xmax>
+      <ymax>212.73</ymax>
+    </bndbox>
+  </object>
+</annotation>

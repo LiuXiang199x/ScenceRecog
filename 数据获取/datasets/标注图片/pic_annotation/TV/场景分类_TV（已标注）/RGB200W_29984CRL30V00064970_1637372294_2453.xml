@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2021122301</folder>
+  <filename>RGB200W_29984CRL30V00064970_1637372294_2453.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2021122301/RGB200W_29984CRL30V00064970_1637372294_2453.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>TV_stand</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>270.91</xmin>
+      <ymin>121.82</ymin>
+      <xmax>475.00</xmax>
+      <ymax>216.36</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>chair_base</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>87.73</xmin>
+      <ymin>196.36</ymin>
+      <xmax>170.45</xmax>
+      <ymax>216.36</ymax>
+    </bndbox>
+  </object>
+</annotation>

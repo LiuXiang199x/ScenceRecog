@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB200W_29984_99999867_116445714266480061.jpg</folder>
+  <filename>RGB200W_29984_99999867_116445714266480061.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999982/RGB200W_29984_99999867_116445714266480061.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cabinet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>476.82</xmin>
+      <ymin>155.00</ymin>
+      <xmax>550.91</xmax>
+      <ymax>220.91</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>TV_stand</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>545.91</xmin>
+      <ymin>183.64</ymin>
+      <xmax>641.82</xmax>
+      <ymax>220.91</ymax>
+    </bndbox>
+  </object>
+</annotation>

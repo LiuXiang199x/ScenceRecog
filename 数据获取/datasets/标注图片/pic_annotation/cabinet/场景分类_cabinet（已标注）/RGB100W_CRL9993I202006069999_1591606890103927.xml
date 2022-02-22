@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB100W_CRL9993I202006069999_1591606890103927.jpg</folder>
+  <filename>RGB100W_CRL9993I202006069999_1591606890103927.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999990/RGB100W_CRL9993I202006069999_1591606890103927.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>361</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>slipper</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>526.82</xmin>
+      <ymin>175.45</ymin>
+      <xmax>641.82</xmax>
+      <ymax>252.73</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cabinet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>410.00</xmin>
+      <ymin>26.36</ymin>
+      <xmax>540.00</xmax>
+      <ymax>204.55</ymax>
+    </bndbox>
+  </object>
+</annotation>

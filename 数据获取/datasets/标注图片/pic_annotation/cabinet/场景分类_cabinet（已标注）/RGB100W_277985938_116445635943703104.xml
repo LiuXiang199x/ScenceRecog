@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB100W_277985938_116445635943703104.jpg</folder>
+  <filename>RGB100W_277985938_116445635943703104.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages2021122805/RGB100W_277985938_116445635943703104.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1280</width>
+    <height>719</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cabinet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>304.50</xmin>
+      <ymin>2.72</ymin>
+      <xmax>872.73</xmax>
+      <ymax>386.97</ymax>
+    </bndbox>
+  </object>
+</annotation>

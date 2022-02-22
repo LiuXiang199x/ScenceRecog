@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>PURCHASE_CRL9993I202006069999_1591612607260490.png</folder>
+  <filename>PURCHASE_CRL9993I202006069999_1591612607260490.png</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999960/PURCHASE_CRL9993I202006069999_1591612607260490.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>481</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>bed1</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>78.18</xmin>
+      <ymin>84.09</ymin>
+      <xmax>487.73</xmax>
+      <ymax>227.27</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cabinet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>0.45</xmin>
+      <ymin>60.00</ymin>
+      <xmax>81.36</xmax>
+      <ymax>226.36</ymax>
+    </bndbox>
+  </object>
+</annotation>

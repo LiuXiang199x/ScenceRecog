@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB200W_202006292031_116444783685696728.jpg</folder>
+  <filename>RGB200W_202006292031_116444783685696728.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999990/RGB200W_202006292031_116444783685696728.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>361</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>shoe</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>217.27</xmin>
+      <ymin>169.09</ymin>
+      <xmax>263.64</xmax>
+      <ymax>186.82</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>TV_stand</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>500.45</xmin>
+      <ymin>124.09</ymin>
+      <xmax>599.55</xmax>
+      <ymax>180.00</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB100W_542500000070_116447170519058461.jpg</folder>
+  <filename>RGB100W_542500000070_116447170519058461.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999980/RGB100W_542500000070_116447170519058461.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>360</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>slipper</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>0.91</xmin>
+      <ymin>115.00</ymin>
+      <xmax>147.73</xmax>
+      <ymax>168.64</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cupboard</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>160.91</xmin>
+      <ymin>0.91</ymin>
+      <xmax>640.00</xmax>
+      <ymax>160.00</ymax>
+    </bndbox>
+  </object>
+</annotation>

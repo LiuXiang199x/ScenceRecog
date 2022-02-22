@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>PURCHASE_CRL9993I202006069999_1591612607517206.png</folder>
+  <filename>PURCHASE_CRL9993I202006069999_1591612607517206.png</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999960/PURCHASE_CRL9993I202006069999_1591612607517206.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>481</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>slipper</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>128.64</xmin>
+      <ymin>137.27</ymin>
+      <xmax>416.36</xmax>
+      <ymax>240.45</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cabinet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>0.91</xmin>
+      <ymin>33.18</ymin>
+      <xmax>149.09</xmax>
+      <ymax>186.82</ymax>
+    </bndbox>
+  </object>
+</annotation>

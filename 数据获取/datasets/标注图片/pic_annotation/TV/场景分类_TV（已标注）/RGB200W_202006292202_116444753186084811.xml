@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB200W_202006292202_116444753186084811.jpg</folder>
+  <filename>RGB200W_202006292202_116444753186084811.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999999/RGB200W_202006292202_116444753186084811.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>361</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>sofa</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>176.82</xmin>
+      <ymin>90.91</ymin>
+      <xmax>337.27</xmax>
+      <ymax>177.73</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>TV_stand</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>399.55</xmin>
+      <ymin>144.55</ymin>
+      <xmax>433.64</xmax>
+      <ymax>174.09</ymax>
+    </bndbox>
+  </object>
+</annotation>

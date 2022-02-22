@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>PURCHASE_CRL9993I202006069999_1591612607309010.png</folder>
+  <filename>PURCHASE_CRL9993I202006069999_1591612607309010.png</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999960/PURCHASE_CRL9993I202006069999_1591612607309010.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>481</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cupboard</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>313.18</xmin>
+      <ymin>279.55</ymin>
+      <xmax>450.45</xmax>
+      <ymax>380.00</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blanket</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>269.55</xmin>
+      <ymin>385.00</ymin>
+      <xmax>443.64</xmax>
+      <ymax>408.18</ymax>
+    </bndbox>
+  </object>
+</annotation>

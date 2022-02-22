@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB100W_202006292022_116444775237594930.jpg</folder>
+  <filename>RGB100W_202006292022_116444775237594930.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999996/RGB100W_202006292022_116444775237594930.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>361</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>wire</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>266.82</xmin>
+      <ymin>42.73</ymin>
+      <xmax>391.36</xmax>
+      <ymax>169.09</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>tea_table</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>374.55</xmin>
+      <ymin>0.45</ymin>
+      <xmax>641.82</xmax>
+      <ymax>224.09</ymax>
+    </bndbox>
+  </object>
+</annotation>

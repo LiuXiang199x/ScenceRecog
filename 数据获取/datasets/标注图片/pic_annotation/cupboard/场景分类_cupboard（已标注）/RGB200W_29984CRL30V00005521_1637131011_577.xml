@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2021120630</folder>
+  <filename>RGB200W_29984CRL30V00005521_1637131011_577.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2021120630/RGB200W_29984CRL30V00005521_1637131011_577.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cupboard</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>410.00</xmin>
+      <ymin>132.27</ymin>
+      <xmax>587.27</xmax>
+      <ymax>247.27</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>trash_can</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>420.91</xmin>
+      <ymin>217.73</ymin>
+      <xmax>442.73</xmax>
+      <ymax>244.09</ymax>
+    </bndbox>
+  </object>
+</annotation>

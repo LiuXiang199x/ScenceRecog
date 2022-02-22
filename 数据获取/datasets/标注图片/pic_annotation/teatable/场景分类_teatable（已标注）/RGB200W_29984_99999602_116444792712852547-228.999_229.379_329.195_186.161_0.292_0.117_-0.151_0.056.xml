@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB200W_29984_99999602_116444792712852547-228.999_229.379_329.195_186.161_0.292_0.117_-0.151_0.056.jpg</folder>
+  <filename>RGB200W_29984_99999602_116444792712852547-228.999_229.379_329.195_186.161_0.292_0.117_-0.151_0.056.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages2021122806/RGB200W_29984_99999602_116444792712852547-228.999_229.379_329.195_186.161_0.292_0.117_-0.151_0.056.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>person_leg</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>540.91</xmin>
+      <ymin>136.82</ymin>
+      <xmax>623.64</xmax>
+      <ymax>205.00</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>tea_table</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1.82</xmin>
+      <ymin>0.91</ymin>
+      <xmax>385.00</xmax>
+      <ymax>223.64</ymax>
+    </bndbox>
+  </object>
+</annotation>

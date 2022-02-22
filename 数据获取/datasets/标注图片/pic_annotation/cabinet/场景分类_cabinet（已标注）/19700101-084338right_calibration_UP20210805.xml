@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>19700101-084338right_calibration_UP20210805.jpg</folder>
+  <filename>19700101-084338right_calibration_UP20210805.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999975/19700101-084338right_calibration_UP20210805.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>wallet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>163.64</xmin>
+      <ymin>195.91</ymin>
+      <xmax>295.00</xmax>
+      <ymax>250.91</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cabinet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>11.82</xmin>
+      <ymin>0.91</ymin>
+      <xmax>258.64</xmax>
+      <ymax>255.91</ymax>
+    </bndbox>
+  </object>
+</annotation>

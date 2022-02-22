@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2021090301</folder>
+  <filename>calibration-7_19700101-093152right_calibration_UP20210903.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2021090301/calibration-7_19700101-093152right_calibration_UP20210903.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cabinet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>191.82</xmin>
+      <ymin>95.45</ymin>
+      <xmax>317.27</xmax>
+      <ymax>230.00</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>unknown_object</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>185.91</xmin>
+      <ymin>146.36</ymin>
+      <xmax>212.73</xmax>
+      <ymax>227.73</ymax>
+    </bndbox>
+  </object>
+</annotation>

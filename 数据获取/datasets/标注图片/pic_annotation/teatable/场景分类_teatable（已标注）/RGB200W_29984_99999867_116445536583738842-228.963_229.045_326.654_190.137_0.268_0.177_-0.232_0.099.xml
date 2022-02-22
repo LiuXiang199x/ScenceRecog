@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB200W_29984_99999867_116445536583738842-228.963_229.045_326.654_190.137_0.268_0.177_-0.232_0.099.jpg</folder>
+  <filename>RGB200W_29984_99999867_116445536583738842-228.963_229.045_326.654_190.137_0.268_0.177_-0.232_0.099.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999999/RGB200W_29984_99999867_116445536583738842-228.963_229.045_326.654_190.137_0.268_0.177_-0.232_0.099.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>dog</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>135.00</xmin>
+      <ymin>0.91</ymin>
+      <xmax>567.73</xmax>
+      <ymax>253.64</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>tea_table</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>23.64</xmin>
+      <ymin>147.73</ymin>
+      <xmax>143.64</xmax>
+      <ymax>225.91</ymax>
+    </bndbox>
+  </object>
+</annotation>

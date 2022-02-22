@@ -27,9 +27,9 @@ def download_pics_withURL():
 # CRL + JPG
 
 
-def filer_pics_visulgood():
-    url_file_f = open("/home/agent/ScenceRecog/数据获取/datasets/标注图片/pics_url/diningtable/diningtable_filter.txt", "w")
-    url_file = open("/home/agent/ScenceRecog/数据获取/datasets/标注图片/pics_url/diningtable/diningtable.txt")
+def filer_pics_visulgood(name):
+    url_file_f = open("/home/agent/ScenceRecog/数据获取/datasets/标注图片/pics_url/"+name+"/"+name+"_filter.txt", "w")
+    url_file = open("/home/agent/ScenceRecog/数据获取/datasets/标注图片/pics_url/"+name+"/"+name+".txt")
     url_datas = url_file.readlines()
 
     ttt = 0
@@ -48,9 +48,9 @@ def filer_pics_visulgood():
                  url_file_f.writelines(data+"\n")
                    
                     
-def filer_pics_visulbad_notslam():
-    url_file_f = open("/home/agent/ScenceRecog/数据获取/datasets/标注图片/pics_url/sofa/sofa_filter_others.txt", "w")
-    url_file = open("/home/agent/ScenceRecog/数据获取/datasets/标注图片/pics_url/sofa/sofa.txt")
+def filer_pics_visulbad_notslam(name):
+    url_file_f = open("/home/agent/ScenceRecog/数据获取/datasets/标注图片/pics_url/"+name+"/"+name+"_filter_others.txt", "w")
+    url_file = open("/home/agent/ScenceRecog/数据获取/datasets/标注图片/pics_url/"+name+"/"+name+".txt")
     url_datas = url_file.readlines()
 
     for data_url in url_datas:
@@ -66,4 +66,6 @@ def filer_pics_visulbad_notslam():
                                     url_file_f.writelines(data+"\n")
                     
 
-download_pics_withURL()
+str_name = "TV"
+filer_pics_visulgood(str_name)
+filer_pics_visulbad_notslam(str_name)

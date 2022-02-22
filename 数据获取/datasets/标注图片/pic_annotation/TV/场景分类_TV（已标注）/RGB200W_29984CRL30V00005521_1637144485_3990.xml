@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2021120701</folder>
+  <filename>RGB200W_29984CRL30V00005521_1637144485_3990.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2021120701/RGB200W_29984CRL30V00005521_1637144485_3990.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>TV_stand</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>360.00</xmin>
+      <ymin>84.55</ymin>
+      <xmax>505.45</xmax>
+      <ymax>227.27</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>tea_table</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>0.91</xmin>
+      <ymin>83.18</ymin>
+      <xmax>189.09</xmax>
+      <ymax>227.27</ymax>
+    </bndbox>
+  </object>
+</annotation>

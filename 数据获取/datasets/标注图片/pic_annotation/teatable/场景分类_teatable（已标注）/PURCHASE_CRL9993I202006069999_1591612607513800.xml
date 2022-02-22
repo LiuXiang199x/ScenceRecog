@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>PURCHASE_CRL9993I202006069999_1591612607513800.png</folder>
+  <filename>PURCHASE_CRL9993I202006069999_1591612607513800.png</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999960/PURCHASE_CRL9993I202006069999_1591612607513800.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>481</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>tea_table</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>290.00</xmin>
+      <ymin>284.55</ymin>
+      <xmax>405.00</xmax>
+      <ymax>395.45</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bed</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>400.00</xmin>
+      <ymin>296.82</ymin>
+      <xmax>517.73</xmax>
+      <ymax>383.18</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB200W_CRL9993I202006069999_1594645911600993.jpg</folder>
+  <filename>RGB200W_CRL9993I202006069999_1594645911600993.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999999/RGB200W_CRL9993I202006069999_1594645911600993.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>361</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>refrigerator</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>433.18</xmin>
+      <ymin>0.91</ymin>
+      <xmax>588.64</xmax>
+      <ymax>217.27</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>TV_stand</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>90.91</xmin>
+      <ymin>123.64</ymin>
+      <xmax>424.09</xmax>
+      <ymax>219.09</ymax>
+    </bndbox>
+  </object>
+</annotation>

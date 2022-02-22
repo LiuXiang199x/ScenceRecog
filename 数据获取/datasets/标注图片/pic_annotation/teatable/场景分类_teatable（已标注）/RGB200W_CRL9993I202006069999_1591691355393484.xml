@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB200W_CRL9993I202006069999_1591691355393484.jpg</folder>
+  <filename>RGB200W_CRL9993I202006069999_1591691355393484.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999996/RGB200W_CRL9993I202006069999_1591691355393484.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>361</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>refrigerator</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>405.91</xmin>
+      <ymin>118.64</ymin>
+      <xmax>462.27</xmax>
+      <ymax>212.27</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>tea_table</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>345.91</xmin>
+      <ymin>166.36</ymin>
+      <xmax>412.73</xmax>
+      <ymax>213.64</ymax>
+    </bndbox>
+  </object>
+</annotation>

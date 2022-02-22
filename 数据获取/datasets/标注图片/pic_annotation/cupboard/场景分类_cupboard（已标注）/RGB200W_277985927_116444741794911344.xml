@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB200W_277985927_116444741794911344.jpg</folder>
+  <filename>RGB200W_277985927_116444741794911344.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages2021122805/RGB200W_277985927_116444741794911344.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1079</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>5.44</xmin>
+      <ymin>0.00</ymin>
+      <xmax>225.66</xmax>
+      <ymax>555.99</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cupboard</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1.36</xmin>
+      <ymin>175.36</ymin>
+      <xmax>739.51</xmax>
+      <ymax>585.90</ymax>
+    </bndbox>
+  </object>
+</annotation>

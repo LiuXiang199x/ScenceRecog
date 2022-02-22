@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2021061702</folder>
+  <filename>RGB200W_010102104301124_116445732743061880_UP20210617.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2021061702/RGB200W_010102104301124_116445732743061880_UP20210617.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>door_anno</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>325.45</xmin>
+      <ymin>0.00</ymin>
+      <xmax>445.00</xmax>
+      <ymax>227.73</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blanket</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>128.64</xmin>
+      <ymin>222.27</ymin>
+      <xmax>614.09</xmax>
+      <ymax>278.64</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB100W_542500000995_116452758517210025.jpg</folder>
+  <filename>RGB100W_542500000995_116452758517210025.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999980/RGB100W_542500000995_116452758517210025.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>360</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>TV_stand</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>126.82</xmin>
+      <ymin>86.82</ymin>
+      <xmax>395.91</xmax>
+      <ymax>188.64</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>tea_table</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>0.91</xmin>
+      <ymin>86.82</ymin>
+      <xmax>81.82</xmax>
+      <ymax>191.82</ymax>
+    </bndbox>
+  </object>
+</annotation>

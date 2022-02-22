@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2022011016</folder>
+  <filename>132859277320388303.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2022011016/132859277320388303.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>960</width>
+    <height>539</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>person18</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>362.96</xmin>
+      <ymin>178.08</ymin>
+      <xmax>411.89</xmax>
+      <ymax>275.96</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person_leg18</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>364.32</xmin>
+      <ymin>241.29</ymin>
+      <xmax>403.06</xmax>
+      <ymax>277.32</ymax>
+    </bndbox>
+  </object>
+</annotation>

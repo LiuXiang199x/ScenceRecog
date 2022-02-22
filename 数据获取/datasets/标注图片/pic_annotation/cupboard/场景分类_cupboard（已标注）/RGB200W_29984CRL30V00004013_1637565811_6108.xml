@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2021123101</folder>
+  <filename>RGB200W_29984CRL30V00004013_1637565811_6108.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2021123101/RGB200W_29984CRL30V00004013_1637565811_6108.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cupboard</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1.82</xmin>
+      <ymin>104.55</ymin>
+      <xmax>75.91</xmax>
+      <ymax>208.18</ymax>
+    </bndbox>
+  </object>
+</annotation>

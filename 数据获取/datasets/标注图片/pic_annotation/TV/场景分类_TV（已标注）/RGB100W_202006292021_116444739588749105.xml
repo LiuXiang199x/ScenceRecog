@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB100W_202006292021_116444739588749105.jpg</folder>
+  <filename>RGB100W_202006292021_116444739588749105.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999990/RGB100W_202006292021_116444739588749105.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>361</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>chair_base</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>86.82</xmin>
+      <ymin>140.91</ymin>
+      <xmax>214.55</xmax>
+      <ymax>170.45</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>TV_stand</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>105.00</xmin>
+      <ymin>47.73</ymin>
+      <xmax>191.82</xmax>
+      <ymax>153.18</ymax>
+    </bndbox>
+  </object>
+</annotation>

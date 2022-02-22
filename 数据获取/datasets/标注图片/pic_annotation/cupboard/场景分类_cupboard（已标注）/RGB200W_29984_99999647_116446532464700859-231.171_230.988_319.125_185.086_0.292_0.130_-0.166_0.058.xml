@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB200W_29984_99999647_116446532464700859-231.171_230.988_319.125_185.086_0.292_0.130_-0.166_0.058.jpg</folder>
+  <filename>RGB200W_29984_99999647_116446532464700859-231.171_230.988_319.125_185.086_0.292_0.130_-0.166_0.058.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999990/RGB200W_29984_99999647_116446532464700859-231.171_230.988_319.125_185.086_0.292_0.130_-0.166_0.058.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>blanket</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1.82</xmin>
+      <ymin>212.73</ymin>
+      <xmax>258.64</xmax>
+      <ymax>238.64</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cupboard</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>95.91</xmin>
+      <ymin>46.82</ymin>
+      <xmax>255.91</xmax>
+      <ymax>216.82</ymax>
+    </bndbox>
+  </object>
+</annotation>

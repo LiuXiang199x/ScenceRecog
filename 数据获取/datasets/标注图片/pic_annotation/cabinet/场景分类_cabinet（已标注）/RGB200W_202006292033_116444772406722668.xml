@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB200W_202006292033_116444772406722668.jpg</folder>
+  <filename>RGB200W_202006292033_116444772406722668.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999983/RGB200W_202006292033_116444772406722668.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>361</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>wire</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>318.64</xmin>
+      <ymin>0.00</ymin>
+      <xmax>629.09</xmax>
+      <ymax>137.73</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cabinet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>138.64</xmin>
+      <ymin>0.91</ymin>
+      <xmax>583.64</xmax>
+      <ymax>276.36</ymax>
+    </bndbox>
+  </object>
+</annotation>

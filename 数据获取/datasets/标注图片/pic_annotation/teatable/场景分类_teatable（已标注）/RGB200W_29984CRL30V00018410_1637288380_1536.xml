@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2021121501</folder>
+  <filename>RGB200W_29984CRL30V00018410_1637288380_1536.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2021121501/RGB200W_29984CRL30V00018410_1637288380_1536.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>tea_table</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>0.00</xmin>
+      <ymin>9.09</ymin>
+      <xmax>242.27</xmax>
+      <ymax>222.73</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blanket</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>0.00</xmin>
+      <ymin>202.27</ymin>
+      <xmax>641.36</xmax>
+      <ymax>362.73</ymax>
+    </bndbox>
+  </object>
+</annotation>

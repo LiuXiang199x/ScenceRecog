@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB200W_277985931_116444754319930473.jpg</folder>
+  <filename>RGB200W_277985931_116444754319930473.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999990/RGB200W_277985931_116444754319930473.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>361</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>wire</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>280.45</xmin>
+      <ymin>64.09</ymin>
+      <xmax>355.45</xmax>
+      <ymax>114.55</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>TV_stand</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>0.45</xmin>
+      <ymin>65.45</ymin>
+      <xmax>632.27</xmax>
+      <ymax>230.45</ymax>
+    </bndbox>
+  </object>
+</annotation>

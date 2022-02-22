@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB100W_542500000064_116461025969187600.jpg</folder>
+  <filename>RGB100W_542500000064_116461025969187600.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999980/RGB100W_542500000064_116461025969187600.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>360</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>blanket</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>425.00</xmin>
+      <ymin>170.00</ymin>
+      <xmax>633.64</xmax>
+      <ymax>180.00</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>TV_stand</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>383.64</xmin>
+      <ymin>90.00</ymin>
+      <xmax>462.73</xmax>
+      <ymax>176.82</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB200W_29984_99999816_116444739704617291-228.388_228.432_319.660_184.101_0.287_0.118_-0.145_0.050.jpg</folder>
+  <filename>RGB200W_29984_99999816_116444739704617291-228.388_228.432_319.660_184.101_0.287_0.118_-0.145_0.050.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999990/RGB200W_29984_99999816_116444739704617291-228.388_228.432_319.660_184.101_0.287_0.118_-0.145_0.050.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cabinet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>335.91</xmin>
+      <ymin>155.00</ymin>
+      <xmax>381.82</xmax>
+      <ymax>207.73</ymax>
+    </bndbox>
+  </object>
+</annotation>

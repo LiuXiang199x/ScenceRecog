@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB200W_010102104221009_116446782768988714.jpg</folder>
+  <filename>RGB200W_010102104221009_116446782768988714.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999986/RGB200W_010102104221009_116446782768988714.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>dog</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>451.82</xmin>
+      <ymin>58.64</ymin>
+      <xmax>587.73</xmax>
+      <ymax>195.00</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>TV_stand</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>233.64</xmin>
+      <ymin>108.64</ymin>
+      <xmax>470.00</xmax>
+      <ymax>191.82</ymax>
+    </bndbox>
+  </object>
+</annotation>

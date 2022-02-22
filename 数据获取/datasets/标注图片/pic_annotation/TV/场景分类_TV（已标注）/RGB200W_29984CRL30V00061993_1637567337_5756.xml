@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2022010801</folder>
+  <filename>RGB200W_29984CRL30V00061993_1637567337_5756.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2022010801/RGB200W_29984CRL30V00061993_1637567337_5756.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>trash_can</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>560.91</xmin>
+      <ymin>155.00</ymin>
+      <xmax>629.09</xmax>
+      <ymax>213.64</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>TV_stand</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>205.00</xmin>
+      <ymin>109.55</ymin>
+      <xmax>459.55</xmax>
+      <ymax>194.55</ymax>
+    </bndbox>
+  </object>
+</annotation>

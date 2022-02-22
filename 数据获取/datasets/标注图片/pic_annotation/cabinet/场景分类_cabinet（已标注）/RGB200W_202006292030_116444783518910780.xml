@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB200W_202006292030_116444783518910780.jpg</folder>
+  <filename>RGB200W_202006292030_116444783518910780.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages2021122805/RGB200W_202006292030_116444783518910780.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1079</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>dog</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>413.25</xmin>
+      <ymin>369.75</ymin>
+      <xmax>581.82</xmax>
+      <ymax>621.24</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cabinet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>958.37</xmin>
+      <ymin>67.97</ymin>
+      <xmax>1264.23</xmax>
+      <ymax>626.68</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2021121003</folder>
+  <filename>RGB200W_29984CRL30V00064956_1637319925_11868.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2021121003/RGB200W_29984CRL30V00064956_1637319925_11868.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>tea_table</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>463.64</xmin>
+      <ymin>74.09</ymin>
+      <xmax>639.55</xmax>
+      <ymax>227.73</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>washing_machine</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>254.55</xmin>
+      <ymin>142.73</ymin>
+      <xmax>296.82</xmax>
+      <ymax>225.45</ymax>
+    </bndbox>
+  </object>
+</annotation>

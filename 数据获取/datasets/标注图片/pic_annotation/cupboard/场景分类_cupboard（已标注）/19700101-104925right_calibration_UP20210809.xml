@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2021080601</folder>
+  <filename>19700101-104925right_calibration_UP20210809.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2021080601/19700101-104925right_calibration_UP20210809.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>&#xd;
+refrigerator</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>307.73</xmin>
+      <ymin>0.00</ymin>
+      <xmax>450.45</xmax>
+      <ymax>220.00</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cupboard</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>60.45</xmin>
+      <ymin>0.45</ymin>
+      <xmax>308.18</xmax>
+      <ymax>209.09</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>shoe</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>-0.45</xmin>
+      <ymin>124.09</ymin>
+      <xmax>128.18</xmax>
+      <ymax>228.18</ymax>
+    </bndbox>
+  </object>
+</annotation>

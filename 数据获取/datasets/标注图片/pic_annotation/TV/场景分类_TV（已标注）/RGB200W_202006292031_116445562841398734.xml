@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB200W_202006292031_116445562841398734.jpg</folder>
+  <filename>RGB200W_202006292031_116445562841398734.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999996/RGB200W_202006292031_116445562841398734.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>361</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>TV_stand</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>231.82</xmin>
+      <ymin>105.91</ymin>
+      <xmax>354.09</xmax>
+      <ymax>186.82</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB200W_29984_99999851_116448446897261914-229.985_230.086_316.609_186.001_0.290_0.123_-0.156_0.055.jpg</folder>
+  <filename>RGB200W_29984_99999851_116448446897261914-229.985_230.086_316.609_186.001_0.290_0.123_-0.156_0.055.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999999/RGB200W_29984_99999851_116448446897261914-229.985_230.086_316.609_186.001_0.290_0.123_-0.156_0.055.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>wire</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>305.00</xmin>
+      <ymin>0.91</ymin>
+      <xmax>350.91</xmax>
+      <ymax>132.73</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cabinet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>353.64</xmin>
+      <ymin>0.91</ymin>
+      <xmax>641.82</xmax>
+      <ymax>250.00</ymax>
+    </bndbox>
+  </object>
+</annotation>

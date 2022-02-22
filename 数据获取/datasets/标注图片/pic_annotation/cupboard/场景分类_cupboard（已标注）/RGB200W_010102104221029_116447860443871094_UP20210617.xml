@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2021061702</folder>
+  <filename>RGB200W_010102104221029_116447860443871094_UP20210617.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2021061702/RGB200W_010102104221029_116447860443871094_UP20210617.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>&#xd;
+cupboard</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>73.18</xmin>
+      <ymin>159.09</ymin>
+      <xmax>111.82</xmax>
+      <ymax>220.45</ymax>
+    </bndbox>
+  </object>
+</annotation>

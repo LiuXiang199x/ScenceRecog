@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2022010801</folder>
+  <filename>RGB200W_29984CRL30V00061993_1637564204_2225.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2022010801/RGB200W_29984CRL30V00061993_1637564204_2225.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>trash_can</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>73.64</xmin>
+      <ymin>169.09</ymin>
+      <xmax>128.64</xmax>
+      <ymax>210.91</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>tea_table</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1.36</xmin>
+      <ymin>126.36</ymin>
+      <xmax>157.73</xmax>
+      <ymax>201.82</ymax>
+    </bndbox>
+  </object>
+</annotation>

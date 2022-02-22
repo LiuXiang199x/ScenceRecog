@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB100W_277985926_116444958952294870.jpg</folder>
+  <filename>RGB100W_277985926_116444958952294870.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999996/RGB100W_277985926_116444958952294870.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>361</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cupboard</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>496.36</xmin>
+      <ymin>28.18</ymin>
+      <xmax>641.82</xmax>
+      <ymax>173.18</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blanket</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>0.45</xmin>
+      <ymin>203.18</ymin>
+      <xmax>641.82</xmax>
+      <ymax>360.91</ymax>
+    </bndbox>
+  </object>
+</annotation>

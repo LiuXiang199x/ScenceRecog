@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2022011701</folder>
+  <filename>RGB200W_29984CRL30V00065052_1637755774_3091.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2022011701/RGB200W_29984CRL30V00065052_1637755774_3091.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>TV_stand</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>114.09</xmin>
+      <ymin>105.45</ymin>
+      <xmax>449.09</xmax>
+      <ymax>210.00</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dust_collector</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>53.64</xmin>
+      <ymin>103.18</ymin>
+      <xmax>136.82</xmax>
+      <ymax>201.82</ymax>
+    </bndbox>
+  </object>
+</annotation>

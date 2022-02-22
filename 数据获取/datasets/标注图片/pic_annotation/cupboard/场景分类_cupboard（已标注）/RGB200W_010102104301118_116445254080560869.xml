@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB200W_010102104301118_116445254080560869.jpg</folder>
+  <filename>RGB200W_010102104301118_116445254080560869.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999986/RGB200W_010102104301118_116445254080560869.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>door_anno</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>142.73</xmin>
+      <ymin>113.64</ymin>
+      <xmax>236.82</xmax>
+      <ymax>218.64</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cupboard</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>312.73</xmin>
+      <ymin>173.64</ymin>
+      <xmax>360.91</xmax>
+      <ymax>212.73</ymax>
+    </bndbox>
+  </object>
+</annotation>

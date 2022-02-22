@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2021090701</folder>
+  <filename>19700101-082135right_calibration_UP20210907.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2021090701/19700101-082135right_calibration_UP20210907.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>TV_stand</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>315.00</xmin>
+      <ymin>122.73</ymin>
+      <xmax>601.82</xmax>
+      <ymax>226.36</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>plastic_toy</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>546.82</xmin>
+      <ymin>108.64</ymin>
+      <xmax>637.73</xmax>
+      <ymax>230.45</ymax>
+    </bndbox>
+  </object>
+</annotation>
