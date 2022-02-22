@@ -2,8 +2,8 @@ import requests
 import imghdr
 
 def download_pics_withURL():
-    pic_path = "/home/agent/桌面/sofa/"
-    url_file = open("/home/agent/ScenceRecog/数据获取/datasets/标注图片/pics_url/sofa/sofa.txt")
+    pic_path = "/home/agent/桌面/bed/"
+    url_file = open("/home/agent/ScenceRecog/数据获取/datasets/标注图片/pics_url/bed/bed.txt")
     url_datas = url_file.readlines()
 
     for data_url in url_datas:
@@ -64,5 +64,6 @@ def filer_pics_visulbad_notslam():
                             if "UP" not in data:
                                 if "calibration" not in data:
                                     url_file_f.writelines(data+"\n")
-                             
-filer_pics_visulbad_notslam()
+                    
+
+download_pics_withURL()
