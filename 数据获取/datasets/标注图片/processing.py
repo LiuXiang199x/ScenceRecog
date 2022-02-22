@@ -26,6 +26,15 @@ def creat_txts(xml_path):
     saveName_file.close()
     saveUrl_file.close()
 
-toilet_xml_path = "数据获取/datasets/标注图片/pic_annotation/diningtable/场景分类_diningtable（已标注）"
-creat_txts(toilet_xml_path)
+# toilet_xml_path = "数据获取/datasets/标注图片/pic_annotation/diningtable/场景分类_diningtable（已标注）"
+# creat_txts(toilet_xml_path)
 
+tt = open("/home/agent/ScenceRecog/数据获取/datasets/标注图片/pics_url/fences/fences.txt", "w")
+t1 = open("/home/agent/ScenceRecog/数据获取/datasets/标注图片/pic_annotation/fences/场景分类_fences.txt")
+
+datas = t1.readlines()
+for data in datas:
+    data = data.split("\t")[0]
+    tt.writelines(data+"\n")
+    
+    
