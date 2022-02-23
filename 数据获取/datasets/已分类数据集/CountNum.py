@@ -34,11 +34,11 @@ if __name__ == "__main__":
     
     sub_dir = "数据获取/datasets/已分类数据集"
     fs = os.listdir(sub_dir)
-    
     for sub_f in fs:
         if sub_f[-1] == "t":
             tmp_file = os.path.join(sub_dir, sub_f)
-            result.append(count_nums(tmp_file))
+            if os.path.isfile(tmp_file):
+                result.append(count_nums(tmp_file))
     
     for dic in result:
         for item in label_names:

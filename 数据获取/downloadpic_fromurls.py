@@ -1,9 +1,9 @@
 import requests
 import imghdr
 
-def download_pics_withURL():
-    pic_path = "/home/agent/桌面/bed/"
-    url_file = open("/home/agent/ScenceRecog/数据获取/datasets/标注图片/pics_url/bed/bed.txt")
+def download_pics_withURL(name):
+    pic_path = "/home/agent/桌面/" + name + "/"
+    url_file = open("/home/agent/ScenceRecog/数据获取/datasets/标注图片/pics_url/" + name + "/" + name +".txt")
     url_datas = url_file.readlines()
 
     for data_url in url_datas:
@@ -66,6 +66,9 @@ def filer_pics_visulbad_notslam(name):
                                     url_file_f.writelines(data+"\n")
                     
 
-str_name = "TV"
-filer_pics_visulgood(str_name)
-filer_pics_visulbad_notslam(str_name)
+# str_name = "TV"
+# filer_pics_visulgood(str_name)
+# filer_pics_visulbad_notslam(str_name)
+
+# download_pics_withURL("toilet")
+# print(4.8 + 4.5 + 3.9 + 5.6 + 5.6 + 7.1 + 1.4) # total datas
