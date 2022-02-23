@@ -22,13 +22,10 @@ def download(filename, url):
     print('<',filename,'>','下载完成。')
 
 if __name__ == '__main__':
-    # path = '/media/agent/eb0d0016-e15f-4a25-8c28-0ad31789f3cb/scene_dataset/data/train'
+    path = '/media/agent/eb0d0016-e15f-4a25-8c28-0ad31789f3cb/scene_dataset/data/train'
 # save_path = sys.argv[2]
-    # txt = '/media/agent/eb0d0016-e15f-4a25-8c28-0ad31789f3cb/Scene/DEDUCE/download_bedroom.txt'
+    txt = '/media/agent/eb0d0016-e15f-4a25-8c28-0ad31789f3cb/Scene/DEDUCE/download_bedroom.txt'
 
-    path = '/home/agent/PICCCCCC/'
-    txt = '/home/agent/txt_final_550W.txt'
-    
     with open(txt, 'r') as f:
         for line in f.readlines():
             label=line.split()[1]

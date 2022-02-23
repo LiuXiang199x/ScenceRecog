@@ -1,5 +1,5 @@
 /b/bed_room 0
-/b/dining_room 1
+/d/dining_room 1
 /d/drawing_room 2
-/l/others 3
-/o/toilet_room 4
+/o/others 3
+/t/toilet_room 4
