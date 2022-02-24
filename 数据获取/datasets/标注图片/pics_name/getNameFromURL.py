@@ -31,6 +31,6 @@ def ff_filter_others(name):
         data = data.replace("\t","")
         names_file.writelines(data.split("/")[-1] + "\n")
 
-str_name = "cabinet"               
-ff_filter(str_name)
-ff_filter_others(str_name)
+for str_name in ["cabinet", "cupboard", "teatable", "TV", "sofa", "bed"]:
+    ff_filter(str_name)
+    ff_filter_others(str_name)
