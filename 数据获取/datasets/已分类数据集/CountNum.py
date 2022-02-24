@@ -44,4 +44,9 @@ if __name__ == "__main__":
         for item in label_names:
             fin_result[item] += dic[item]
     
+    sum = 0
+    for item in fin_result.values():
+        sum += item
+    
     print(fin_result)
+    print(sum)

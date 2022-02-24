@@ -48,8 +48,7 @@ def creat_txts(name):
     saveName_file.close()
     saveUrl_file.close()
 
-for i in ["cabinet", "cupboard", "teatable", "TV", "sofa"]:
-    creat_txts(i)
+
 
 
 def aa(xml_path):
