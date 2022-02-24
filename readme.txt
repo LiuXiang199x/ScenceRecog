@@ -1,1 +1,0 @@
-Project Scene Recognization
