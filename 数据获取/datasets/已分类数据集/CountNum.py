@@ -12,13 +12,13 @@ from cv2 import split
 def count_nums(f_path):
     f_name = open(f_path)
     label_dics = {}
-    label_names = ['balcony', 'bed_room ', 'CrossLook_DoorFrame', 'unknown', 'others', 'blurredimag', 'CrossLook_Door', 'person_leg', 'wall', 'LargeOcclusion', 'table_foot', 'toilet_room', 'protective_fence', 'kitchen', 'drawing_room', 'dining_room', 'test_room', "空"]
+    label_names = ['balcony', 'bed_room', 'CrossLook_DoorFrame', 'unknown', 'others', 'blurredimag', 'CrossLook_Door', 'person_leg', 'wall', 'LargeOcclusion', 'table_foot', 'toilet_room', 'protective_fence', 'kitchen', 'drawing_room', 'dining_room', 'test_room', "空"]
     for name in label_names:
         label_dics[name] = 0
     datas = f_name.readlines()
 
     for data in datas:
-        data = data.split("\t")[-1].replace("\n", "")
+        data = data.replace("\n", "").replace(" ", "").split("\t")[-1].replace("\n", "")
         label_dics[data] += 1
 
     return label_dics
@@ -27,7 +27,7 @@ if __name__ == "__main__":
     
     result = []
     fin_result = {}
-    label_names = ['balcony', 'bed_room ', 'CrossLook_DoorFrame', 'unknown', 'others', 'blurredimag', 'CrossLook_Door', 'person_leg', 'wall', 'LargeOcclusion', 'table_foot', 'toilet_room', 'protective_fence', 'kitchen', 'drawing_room', 'dining_room', 'test_room', "空"]
+    label_names = ['balcony', 'bed_room', 'CrossLook_DoorFrame', 'unknown', 'others', 'blurredimag', 'CrossLook_Door', 'person_leg', 'wall', 'LargeOcclusion', 'table_foot', 'toilet_room', 'protective_fence', 'kitchen', 'drawing_room', 'dining_room', 'test_room', "空"]
     for name in label_names:
         fin_result[name] = 0
     
