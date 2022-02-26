@@ -32,8 +32,9 @@ if __name__ == "__main__":
         fin_result[name] = 0
     
     
-    sub_dir = "数据获取/datasets/已分类数据集/Datas2Train"
+    sub_dir = "/home/agent/ScenceRecog/数据获取/datasets/已分类数据集/Datas2Train"
     fs = os.listdir(sub_dir)
+    
     for sub_f in fs:
         if sub_f[-1] == "t":
             tmp_file = os.path.join(sub_dir, sub_f)
