@@ -13,7 +13,7 @@ for tmpf in os.listdir(f):
         
         for datas in tmp_data:
             data = datas.replace(" ", "").replace("\n", "").split("\t")[-1]
-            if data in ["bed_room", "toilet_room", "drawing_room", "dining_room"]:
+            if data in ["bed_room", "toilet_room", "drawing_room", "dining_room", "LargeOcclusion", "wall", "table_foot", "kitchen"]:
                 f2.writelines(datas.replace(" ", ""))
 
 f2.close()
