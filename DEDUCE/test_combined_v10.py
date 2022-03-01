@@ -54,16 +54,16 @@ class AllModel(nn.Module):
     def __init__(self, num_classes):
         super(AllModel, self).__init__()
         self.num_classes = num_classes
-        classifier = LinClassifier(num_classes)
-        self.classifier = classifier
-        object_idt = Object_Linear()
-        self.object_idt = object_idt
+        
+        self.classifier = LinClassifier(num_classes)
+       
+        self.object_idt = Object_Linear()
         model = resnet.resnet18(num_classes=num_classes) # to be commented
         self.model = model
 
     def forward(self, x_rgb, x_onehot):
-        output_conv = self.model(x_rgb)
-        output_idt1 = self.object_idt(x_onehot)
+        output_conv = self.model(x_rgb)  # 1*512
+        output_idt1 = self.object_idt(x_onehot)  # 1*512
         output_idt2 = output_idt1.unsqueeze(0)
         output = self.classifier(output_conv, output_idt2)
         return output
