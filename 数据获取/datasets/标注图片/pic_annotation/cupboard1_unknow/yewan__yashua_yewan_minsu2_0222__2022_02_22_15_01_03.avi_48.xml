@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2022022409</folder>
+  <filename>yewan__yashua_yewan_minsu2_0222__2022_02_22_15_01_03.avi_48.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2022022409/yewan__yashua_yewan_minsu2_0222__2022_02_22_15_01_03.avi_48.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cupboard1</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>0.91</xmin>
+      <ymin>0.00</ymin>
+      <xmax>640.45</xmax>
+      <ymax>261.82</ymax>
+    </bndbox>
+  </object>
+</annotation>

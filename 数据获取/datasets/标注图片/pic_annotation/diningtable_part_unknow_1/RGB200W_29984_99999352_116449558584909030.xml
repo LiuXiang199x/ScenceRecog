@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>RGB200W_29984_99999352_116449558584909030.jpg</folder>
+  <filename>RGB200W_29984_99999352_116449558584909030.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages1999999990/RGB200W_29984_99999352_116449558584909030.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>dining_table1</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>87.73</xmin>
+      <ymin>3.64</ymin>
+      <xmax>537.73</xmax>
+      <ymax>235.00</ymax>
+    </bndbox>
+  </object>
+</annotation>

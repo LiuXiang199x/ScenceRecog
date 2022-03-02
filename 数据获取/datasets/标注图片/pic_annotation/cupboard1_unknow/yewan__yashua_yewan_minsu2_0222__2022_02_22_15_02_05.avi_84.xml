@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2022022409</folder>
+  <filename>yewan__yashua_yewan_minsu2_0222__2022_02_22_15_02_05.avi_84.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2022022409/yewan__yashua_yewan_minsu2_0222__2022_02_22_15_02_05.avi_84.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cupboard1</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>276.82</xmin>
+      <ymin>-0.45</ymin>
+      <xmax>640.00</xmax>
+      <ymax>286.36</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>toothbrush</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>155.91</xmin>
+      <ymin>217.27</ymin>
+      <xmax>253.18</xmax>
+      <ymax>246.82</ymax>
+    </bndbox>
+  </object>
+</annotation>

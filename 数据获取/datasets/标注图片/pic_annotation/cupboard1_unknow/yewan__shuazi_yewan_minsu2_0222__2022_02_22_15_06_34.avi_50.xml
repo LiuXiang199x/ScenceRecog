@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2022022409</folder>
+  <filename>yewan__shuazi_yewan_minsu2_0222__2022_02_22_15_06_34.avi_50.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2022022409/yewan__shuazi_yewan_minsu2_0222__2022_02_22_15_06_34.avi_50.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>642</width>
+    <height>362</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cupboard1</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>0.00</xmin>
+      <ymin>0.00</ymin>
+      <xmax>641.82</xmax>
+      <ymax>246.36</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>brush</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>87.73</xmin>
+      <ymin>214.55</ymin>
+      <xmax>180.45</xmax>
+      <ymax>257.73</ymax>
+    </bndbox>
+  </object>
+</annotation>

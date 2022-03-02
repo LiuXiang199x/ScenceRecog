@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2021071402</folder>
+  <filename>RGB200W_2998499999781_116444746075969676_ir_UP20210715.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2021071402/RGB200W_2998499999781_116444746075969676_ir_UP20210715.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>224</width>
+    <height>172</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>dining_table1</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>28.64</xmin>
+      <ymin>34.09</ymin>
+      <xmax>96.36</xmax>
+      <ymax>107.73</ymax>
+    </bndbox>
+  </object>
+</annotation>

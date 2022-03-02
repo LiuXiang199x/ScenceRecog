@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+  <folder>2021071402</folder>
+  <filename>RGB200W_2998499999781_116444745571483685_rgb_UP20210715.jpg</filename>
+  <path>http://172.18.39.209:9000/aliimages/2021071402/RGB200W_2998499999781_116444745571483685_rgb_UP20210715.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>352</width>
+    <height>352</height>
+    <depth>0</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>chair_base</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>-0.45</xmin>
+      <ymin>151.82</ymin>
+      <xmax>351.36</xmax>
+      <ymax>351.36</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dining_table1</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>116.36</xmin>
+      <ymin>0.45</ymin>
+      <xmax>351.36</xmax>
+      <ymax>159.09</ymax>
+    </bndbox>
+  </object>
+</annotation>
