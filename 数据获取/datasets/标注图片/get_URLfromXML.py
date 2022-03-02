@@ -48,7 +48,7 @@ def creat_txts(name):
     saveName_file.close()
     saveUrl_file.close()
 
-
+creat_txts("diningtablePartUnknow1")
 
 
 def aa(xml_path):
