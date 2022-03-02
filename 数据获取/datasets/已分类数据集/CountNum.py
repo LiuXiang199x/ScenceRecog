@@ -50,7 +50,7 @@ if __name__ == "__main__":
     for dic in result:
         for item in label_names:
             fin_result[item] += dic[item]
-    
+    # 
     sum = 0
     for item in fin_result.values():
         sum += item
