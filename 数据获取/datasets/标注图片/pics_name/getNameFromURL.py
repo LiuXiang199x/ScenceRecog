@@ -11,6 +11,9 @@ def ff_total(name):
         data = data.replace("\t","")
         names_file.writelines(data.split("/")[-1] + "\n")
 
+
+
+
 def ff_filter(name):
     names_file = open("/home/agent/ScenceRecog/数据获取/datasets/标注图片/pics_name/"+name+"/"+name+"_filter.txt", "w")
     url_file = open("/home/agent/ScenceRecog/数据获取/datasets/标注图片/pics_url/"+name+"/"+name+"_filter.txt")
