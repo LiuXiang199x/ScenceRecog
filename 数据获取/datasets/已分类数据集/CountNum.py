@@ -6,7 +6,6 @@ from pydoc import TextRepr
 from re import I
 from unittest import result
 
-from cv2 import split
 
 
 def count_nums(f_path):
